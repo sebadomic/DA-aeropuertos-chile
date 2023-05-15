@@ -1,0 +1,1285 @@
+destino|numero_vuelos|puntualidad|minutos_atraso|vuelos_regulares|fecha|aeropuerto|5
+Cusco|1|1.0|0.0|1.0|01-01-2020|Arica|
+Antofagasta|32|0.9690000000000001|17.0|1.0|01-01-2020|Arica|
+Santiago|691|0.8740000000000001|48.0|0.997|01-01-2020|Arica|
+La Serena|32|0.75|90.0|1.0|01-01-2020|Arica|
+Tacna|1|0.0|77.0|1.0|01-01-2020|Arica|
+Santiago|32|0.7809999999999999|61.0|0.941|01-04-2020|Arica|
+Antofagasta|3|0.667|26.0|1.0|01-04-2020|Arica|
+Calama|2|0.5|26.0|1.0|01-04-2020|Arica|
+Iquique|30|0.767|68.0|1.0|01-04-2020|Arica|
+Lima|1|0.0|38.0|1.0|01-04-2020|Arica|
+Santiago|76|0.855|44.0|0.9620000000000001|01-07-2020|Arica|
+Antofagasta|18|0.889|20.0|1.0|01-07-2020|Arica|
+La Serena|16|1.0|0.0|1.0|01-07-2020|Arica|
+Calama|5|0.8|19.0|1.0|01-07-2020|Arica|
+Iquique|2|1.0|0.0|1.0|01-07-2020|Arica|
+Santiago|233|0.8540000000000001|48.0|0.991|01-10-2020|Arica|
+Antofagasta|18|0.889|95.0|1.0|01-10-2020|Arica|
+La Serena|25|0.84|37.0|0.9259999999999999|01-10-2020|Arica|
+Calama|3|1.0|0.0|1.0|01-10-2020|Arica|
+Iquique|1|0.0|25.0|1.0|01-10-2020|Arica|
+Trujillo|1|0.0|109.0|1.0|01-10-2020|Arica|
+Santiago|315|0.914|48.0|0.991|01-01-2021|Arica|
+Antofagasta|11|0.545|66.0|1.0|01-01-2021|Arica|
+La Serena|31|0.903|83.0|1.0|01-01-2021|Arica|
+Calama|1|0.0|17.0|1.0|01-01-2021|Arica|
+Iquique|2|1.0|0.0|1.0|01-01-2021|Arica|
+Santiago|226|0.903|56.0|0.966|01-04-2021|Arica|
+Antofagasta|1|1.0|0.0|1.0|01-04-2021|Arica|
+La Serena|21|0.9520000000000001|59.0|0.955|01-04-2021|Arica|
+Iquique|3|0.667|23.0|1.0|01-04-2021|Arica|
+Santiago|414|0.79|40.0|0.995|01-07-2021|Arica|
+Antofagasta|1|1.0|0.0|1.0|01-07-2021|Arica|
+La Serena|38|0.684|62.0|1.0|01-07-2021|Arica|
+Copiapo|1|1.0|0.0|1.0|01-07-2021|Arica|
+Puerto Principe|2|0.5|86.0|1.0|01-07-2021|Arica|
+Santiago|560|0.675|39.0|0.9740000000000001|01-10-2021|Arica|
+La Serena|38|0.6579999999999999|39.0|1.0|01-10-2021|Arica|
+Iquique|1|1.0|0.0|1.0|01-10-2021|Arica|
+Copiapo|1|1.0|0.0|1.0|01-10-2021|Arica|
+Puerto Principe|3|0.0|79.0|1.0|01-10-2021|Arica|
+Santiago|609|0.759|50.0|0.978|01-01-2022|Arica|
+La Serena|41|0.6829999999999999|59.0|0.976|01-01-2022|Arica|
+Iquique|2|0.5|18.0|1.0|01-01-2022|Arica|
+Puerto Principe|7|0.5710000000000001|18.0|0.778|01-01-2022|Arica|
+Santiago|394|0.787|38.0|0.995|01-04-2022|Arica|
+Antofagasta|3|1.0|0.0|1.0|01-04-2022|Arica|
+La Serena|24|0.667|38.0|0.96|01-04-2022|Arica|
+Iquique|17|1.0|0.0|1.0|01-04-2022|Arica|
+Puerto Principe|11|0.545|28.0|0.917|01-04-2022|Arica|
+Santiago|424|0.804|43.0|0.998|01-07-2022|Arica|
+La Serena|28|0.46399999999999997|30.0|1.0|01-07-2022|Arica|
+Iquique|22|0.8640000000000001|22.0|0.9570000000000001|01-07-2022|Arica|
+Concepcion|1|0.0|17.0|1.0|01-07-2022|Arica|
+Puerto Principe|7|0.429|19.0|1.0|01-07-2022|Arica|
+Santa Cruz|1|0.0|100.0|1.0|01-07-2022|Arica|
+Puerto Principe|3|1.0|0.0|0.75|01-10-2022|Arica|
+Santiago|414|0.85|53.0|0.993|01-10-2022|Arica|
+Iquique|59|0.78|59.0|0.983|01-10-2022|Arica|
+Santa Cruz|2|0.5|98.0|1.0|01-10-2022|Arica|
+La Serena|39|0.436|39.0|1.0|01-10-2022|Arica|
+Santiago|487|0.8640000000000001|60.0|0.998|01-01-2023|Arica|
+Iquique|88|0.841|88.0|0.978|01-01-2023|Arica|
+La Serena|52|0.5379999999999999|46.0|1.0|01-01-2023|Arica|
+Santa Cruz|1|0.0|61.0|1.0|01-01-2023|Arica|
+Calama|1|1.0|0.0|1.0|01-01-2020|Iquique|
+Guayaquil|1|1.0|0.0|1.0|01-01-2020|Iquique|
+Salta Arg.|9|0.889|51.0|1.0|01-01-2020|Iquique|
+Santiago|1195|0.872|42.0|0.998|01-01-2020|Iquique|
+La Serena|75|0.813|119.0|1.0|01-01-2020|Iquique|
+La Paz|39|0.5379999999999999|31.0|1.0|01-01-2020|Iquique|
+Arica|1|0.0|28.0|1.0|01-01-2020|Iquique|
+Santiago|207|0.821|61.0|0.924|01-04-2020|Iquique|
+Antofagasta|7|1.0|0.0|1.0|01-04-2020|Iquique|
+La Serena|12|0.75|36.0|0.857|01-04-2020|Iquique|
+Calama|5|0.8|22.0|0.833|01-04-2020|Iquique|
+Arica|30|0.767|72.0|1.0|01-04-2020|Iquique|
+La Paz|1|1.0|0.0|1.0|01-04-2020|Iquique|
+Concepcion|10|1.0|0.0|0.769|01-04-2020|Iquique|
+Bogota|2|0.5|212.0|1.0|01-04-2020|Iquique|
+Buenos Aires|4|0.75|27.0|1.0|01-04-2020|Iquique|
+Santiago|441|0.848|61.0|0.963|01-07-2020|Iquique|
+Antofagasta|12|0.75|22.0|1.0|01-07-2020|Iquique|
+La Serena|30|0.9329999999999999|81.0|1.0|01-07-2020|Iquique|
+Calama|6|0.5|29.0|0.857|01-07-2020|Iquique|
+Arica|2|1.0|0.0|1.0|01-07-2020|Iquique|
+La Paz|6|0.5|34.0|1.0|01-07-2020|Iquique|
+Concepcion|22|0.727|62.0|1.0|01-07-2020|Iquique|
+Bogota|1|1.0|0.0|1.0|01-07-2020|Iquique|
+Santiago|875|0.847|48.0|0.946|01-10-2020|Iquique|
+Antofagasta|3|0.33299999999999996|71.0|1.0|01-10-2020|Iquique|
+La Serena|40|0.9|31.0|0.889|01-10-2020|Iquique|
+Calama|1|1.0|0.0|1.0|01-10-2020|Iquique|
+Arica|3|1.0|0.0|1.0|01-10-2020|Iquique|
+La Paz|17|0.353|36.0|1.0|01-10-2020|Iquique|
+Barranquilla|1|0.0|29.0|1.0|01-10-2020|Iquique|
+Santiago|776|0.941|45.0|0.9740000000000001|01-01-2021|Iquique|
+Antofagasta|5|1.0|0.0|1.0|01-01-2021|Iquique|
+La Serena|84|0.929|38.0|0.966|01-01-2021|Iquique|
+Arica|3|1.0|0.0|1.0|01-01-2021|Iquique|
+La Paz|5|0.6|25.0|1.0|01-01-2021|Iquique|
+Santa Cruz|12|0.917|30.0|1.0|01-01-2021|Iquique|
+Santiago|688|0.895|57.0|0.9840000000000001|01-04-2021|Iquique|
+Antofagasta|12|0.833|142.0|1.0|01-04-2021|Iquique|
+La Serena|65|0.862|67.0|1.0|01-04-2021|Iquique|
+Calama|6|1.0|0.0|1.0|01-04-2021|Iquique|
+Arica|7|0.857|21.0|1.0|01-04-2021|Iquique|
+La Paz|2|0.0|22.0|1.0|01-04-2021|Iquique|
+Concepcion|84|0.905|35.0|1.0|01-04-2021|Iquique|
+Copiapo|3|1.0|0.0|0.75|01-04-2021|Iquique|
+Santa Cruz|8|0.375|34.0|1.0|01-04-2021|Iquique|
+Caracas|2|0.5|40.0|1.0|01-04-2021|Iquique|
+Santiago|1227|0.8740000000000001|37.0|0.99|01-07-2021|Iquique|
+Antofagasta|2|0.5|114.0|1.0|01-07-2021|Iquique|
+La Serena|131|0.802|27.0|0.985|01-07-2021|Iquique|
+Arica|2|0.0|62.0|1.0|01-07-2021|Iquique|
+Concepcion|123|0.821|45.0|1.0|01-07-2021|Iquique|
+Copiapo|2|1.0|0.0|1.0|01-07-2021|Iquique|
+Santa Cruz|9|0.778|45.0|1.0|01-07-2021|Iquique|
+Bogota|1|1.0|0.0|1.0|01-07-2021|Iquique|
+Cali|1|0.0|43.0|1.0|01-07-2021|Iquique|
+Puerto Principe|3|0.33299999999999996|43.0|1.0|01-07-2021|Iquique|
+Santiago|1340|0.644|39.0|0.987|01-10-2021|Iquique|
+La Serena|141|0.716|45.0|0.9790000000000001|01-10-2021|Iquique|
+Arica|3|0.33299999999999996|27.0|1.0|01-10-2021|Iquique|
+Concepcion|204|0.6859999999999999|47.0|0.99|01-10-2021|Iquique|
+Santa Cruz|13|0.385|35.0|1.0|01-10-2021|Iquique|
+Bogota|1|0.0|79.0|1.0|01-10-2021|Iquique|
+Puerto Principe|3|0.0|34.0|0.429|01-10-2021|Iquique|
+Santiago|1194|0.561|45.0|0.971|01-01-2022|Iquique|
+Antofagasta|2|0.5|47.0|1.0|01-01-2022|Iquique|
+La Serena|125|0.72|56.0|0.9690000000000001|01-01-2022|Iquique|
+Calama|1|0.0|44.0|1.0|01-01-2022|Iquique|
+Arica|1|0.0|16.0|1.0|01-01-2022|Iquique|
+La Paz|1|1.0|0.0|1.0|01-01-2022|Iquique|
+Concepcion|171|0.649|49.0|0.977|01-01-2022|Iquique|
+Puerto Principe|9|0.556|41.0|1.0|01-01-2022|Iquique|
+Santa Cruz|25|0.28|43.0|1.0|01-01-2022|Iquique|
+Lima|1|1.0|0.0|1.0|01-01-2022|Iquique|
+Asuncion|1|1.0|0.0|1.0|01-01-2022|Iquique|
+Bogota|1|1.0|0.0|1.0|01-01-2022|Iquique|
+Puerto Montt|1|1.0|0.0|1.0|01-04-2022|Iquique|
+Santiago|1030|0.787|46.0|0.9940000000000001|01-04-2022|Iquique|
+Antofagasta|2|1.0|0.0|1.0|01-04-2022|Iquique|
+La Serena|100|0.69|40.0|0.99|01-04-2022|Iquique|
+Arica|17|0.882|24.0|1.0|01-04-2022|Iquique|
+La Paz|1|0.0|44.0|1.0|01-04-2022|Iquique|
+Concepcion|168|0.726|39.0|1.0|01-04-2022|Iquique|
+Puerto Principe|3|0.33299999999999996|29.0|1.0|01-04-2022|Iquique|
+Santa Cruz|26|0.654|51.0|1.0|01-04-2022|Iquique|
+Lima|1|0.0|17.0|1.0|01-04-2022|Iquique|
+Santiago|1133|0.755|34.0|0.9940000000000001|01-07-2022|Iquique|
+La Serena|105|0.6859999999999999|39.0|1.0|01-07-2022|Iquique|
+Arica|22|0.909|25.0|0.9570000000000001|01-07-2022|Iquique|
+Concepcion|158|0.696|37.0|0.9940000000000001|01-07-2022|Iquique|
+Santa Cruz|25|0.84|36.0|1.0|01-07-2022|Iquique|
+Calama|1|1.0|0.0|1.0|01-10-2022|Iquique|
+Lima|1|1.0|0.0|1.0|01-10-2022|Iquique|
+Santa Cruz|25|0.84|49.0|0.9620000000000001|01-10-2022|Iquique|
+Concepcion|165|0.836|39.0|1.0|01-10-2022|Iquique|
+Santiago|1053|0.79|40.0|0.9940000000000001|01-10-2022|Iquique|
+Arica|58|0.672|36.0|0.9670000000000001|01-10-2022|Iquique|
+La Serena|92|0.5870000000000001|52.0|0.9890000000000001|01-10-2022|Iquique|
+Antofagasta|1|0.0|101.0|1.0|01-10-2022|Iquique|
+Lima|1|1.0|0.0|1.0|01-01-2023|Iquique|
+Asuncion|1|1.0|0.0|1.0|01-01-2023|Iquique|
+Santiago|1210|0.821|49.0|0.993|01-01-2023|Iquique|
+Concepcion|117|0.795|114.0|1.0|01-01-2023|Iquique|
+Santa Cruz|26|0.769|30.0|1.0|01-01-2023|Iquique|
+La Serena|114|0.754|78.0|0.983|01-01-2023|Iquique|
+Arica|89|0.708|59.0|0.9890000000000001|01-01-2023|Iquique|
+La Paz|1|0.0|48.0|1.0|01-01-2023|Iquique|
+Iquique|1|1.0|0.0|1.0|01-01-2020|Antofagasta|
+Lima|37|0.919|24.0|1.0|01-01-2020|Antofagasta|
+Arica|33|0.879|23.0|1.0|01-01-2020|Antofagasta|
+La Serena|158|0.8540000000000001|98.0|1.0|01-01-2020|Antofagasta|
+Santiago|1209|0.845|51.0|0.998|01-01-2020|Antofagasta|
+Temuco|14|0.7140000000000001|74.0|1.0|01-01-2020|Antofagasta|
+Puerto Montt|14|0.643|37.0|1.0|01-01-2020|Antofagasta|
+Calama|3|0.33299999999999996|222.0|1.0|01-01-2020|Antofagasta|
+Santiago|354|0.8640000000000001|85.0|0.9390000000000001|01-04-2020|Antofagasta|
+La Serena|69|0.638|41.0|0.9079999999999999|01-04-2020|Antofagasta|
+Calama|39|0.9229999999999999|36.0|1.0|01-04-2020|Antofagasta|
+Iquique|13|0.9229999999999999|26.0|0.813|01-04-2020|Antofagasta|
+Arica|7|1.0|0.0|1.0|01-04-2020|Antofagasta|
+Concepcion|44|0.773|33.0|0.917|01-04-2020|Antofagasta|
+Santiago|657|0.802|67.0|0.9840000000000001|01-07-2020|Antofagasta|
+La Serena|81|0.716|88.0|0.988|01-07-2020|Antofagasta|
+Calama|134|0.8809999999999999|30.0|0.978|01-07-2020|Antofagasta|
+Iquique|12|0.917|39.0|1.0|01-07-2020|Antofagasta|
+Arica|19|0.9470000000000001|24.0|1.0|01-07-2020|Antofagasta|
+Bogota|1|0.0|43.0|1.0|01-07-2020|Antofagasta|
+Santiago|111|0.8640000000000001|61.0|0.98|01-10-2020|Antofagasta|
+La Serena|144|0.778|86.0|0.986|01-10-2020|Antofagasta|
+Calama|37|0.865|38.0|0.9490000000000001|01-10-2020|Antofagasta|
+Iquique|3|0.33299999999999996|36.0|1.0|01-10-2020|Antofagasta|
+Arica|17|0.8240000000000001|36.0|1.0|01-10-2020|Antofagasta|
+Temuco|3|1.0|0.0|1.0|01-10-2020|Antofagasta|
+Trujillo|1|0.0|30.0|1.0|01-10-2020|Antofagasta|
+Cali|4|0.25|42.0|1.0|01-10-2020|Antofagasta|
+Santiago|1022|0.917|53.0|0.966|01-01-2021|Antofagasta|
+La Serena|180|0.867|76.0|0.9940000000000001|01-01-2021|Antofagasta|
+Calama|10|0.7|103.0|1.0|01-01-2021|Antofagasta|
+Iquique|5|1.0|0.0|1.0|01-01-2021|Antofagasta|
+Arica|11|0.909|212.0|1.0|01-01-2021|Antofagasta|
+Temuco|2|1.0|0.0|1.0|01-01-2021|Antofagasta|
+Cali|13|0.9229999999999999|138.0|1.0|01-01-2021|Antofagasta|
+Santiago|867|0.927|47.0|0.983|01-04-2021|Antofagasta|
+La Serena|198|0.934|41.0|0.975|01-04-2021|Antofagasta|
+Calama|9|0.778|40.0|1.0|01-04-2021|Antofagasta|
+Iquique|10|0.9|234.0|1.0|01-04-2021|Antofagasta|
+Arica|2|0.5|90.0|1.0|01-04-2021|Antofagasta|
+Concepcion|97|0.856|52.0|0.97|01-04-2021|Antofagasta|
+Copiapo|13|0.9229999999999999|158.0|1.0|01-04-2021|Antofagasta|
+Santiago|1425|0.86|33.0|0.993|01-07-2021|Antofagasta|
+La Serena|274|0.85|53.0|0.993|01-07-2021|Antofagasta|
+Calama|5|0.8|30.0|1.0|01-07-2021|Antofagasta|
+Iquique|1|0.0|44.0|1.0|01-07-2021|Antofagasta|
+Arica|2|0.5|359.0|1.0|01-07-2021|Antofagasta|
+Concepcion|121|0.76|51.0|0.976|01-07-2021|Antofagasta|
+Copiapo|14|0.929|46.0|1.0|01-07-2021|Antofagasta|
+Cali|3|0.0|51.0|1.0|01-07-2021|Antofagasta|
+Trujillo|1|0.0|36.0|1.0|01-07-2021|Antofagasta|
+Santiago|1380|0.75|38.0|0.986|01-10-2021|Antofagasta|
+La Serena|249|0.735|37.0|0.992|01-10-2021|Antofagasta|
+Calama|7|0.429|77.0|1.0|01-10-2021|Antofagasta|
+Arica|1|1.0|0.0|1.0|01-10-2021|Antofagasta|
+Concepcion|136|0.721|51.0|0.993|01-10-2021|Antofagasta|
+Copiapo|13|0.769|38.0|1.0|01-10-2021|Antofagasta|
+Bogota|1|0.0|26.0|1.0|01-10-2021|Antofagasta|
+Cali|16|0.063|43.0|1.0|01-10-2021|Antofagasta|
+Lima|2|1.0|0.0|1.0|01-10-2021|Antofagasta|
+Santiago|1278|0.7909999999999999|42.0|0.988|01-01-2022|Antofagasta|
+La Serena|221|0.778|39.0|0.991|01-01-2022|Antofagasta|
+Calama|4|0.75|48.0|1.0|01-01-2022|Antofagasta|
+Iquique|3|0.33299999999999996|64.0|1.0|01-01-2022|Antofagasta|
+Concepcion|140|0.7|71.0|0.993|01-01-2022|Antofagasta|
+Cali|38|0.789|79.0|1.0|01-01-2022|Antofagasta|
+Lima|1|1.0|0.0|1.0|01-01-2022|Antofagasta|
+Santiago|1243|0.8370000000000001|45.0|0.991|01-04-2022|Antofagasta|
+La Serena|216|0.815|43.0|0.982|01-04-2022|Antofagasta|
+Calama|6|0.833|67.0|1.0|01-04-2022|Antofagasta|
+Iquique|2|0.0|92.0|1.0|01-04-2022|Antofagasta|
+Arica|3|0.33299999999999996|23.0|1.0|01-04-2022|Antofagasta|
+Concepcion|125|0.8|55.0|0.9690000000000001|01-04-2022|Antofagasta|
+Cali|39|0.7440000000000001|40.0|1.0|01-04-2022|Antofagasta|
+Lima|2|1.0|0.0|1.0|01-04-2022|Antofagasta|
+Buenos Aires|1|0.0|77.0|1.0|01-04-2022|Antofagasta|
+Cordoba|1|0.0|72.0|1.0|01-04-2022|Antofagasta|
+Santa Genoveva, Bra.|1|1.0|0.0|1.0|01-04-2022|Antofagasta|
+Santiago|1140|0.816|35.0|0.988|01-07-2022|Antofagasta|
+La Serena|201|0.7909999999999999|43.0|0.995|01-07-2022|Antofagasta|
+Calama|7|0.857|30.0|1.0|01-07-2022|Antofagasta|
+Arica|1|1.0|0.0|1.0|01-07-2022|Antofagasta|
+Concepcion|122|0.8029999999999999|40.0|1.0|01-07-2022|Antofagasta|
+Copiapo|1|1.0|0.0|1.0|01-07-2022|Antofagasta|
+Cali|39|0.897|32.0|1.0|01-07-2022|Antofagasta|
+Calama|6|1.0|0.0|1.0|01-10-2022|Antofagasta|
+Lima|17|0.882|25.0|1.0|01-10-2022|Antofagasta|
+La Serena|208|0.841|44.0|0.99|01-10-2022|Antofagasta|
+Santiago|1222|0.8|44.0|0.991|01-10-2022|Antofagasta|
+Concepcion|131|0.733|56.0|1.0|01-10-2022|Antofagasta|
+Cali|44|0.47700000000000004|51.0|1.0|01-10-2022|Antofagasta|
+Iquique|1|0.0|41.0|1.0|01-10-2022|Antofagasta|
+Calama|6|1.0|0.0|1.0|01-01-2023|Antofagasta|
+Lima|27|0.963|52.0|1.0|01-01-2023|Antofagasta|
+La Serena|200|0.84|42.0|1.0|01-01-2023|Antofagasta|
+Santiago|1269|0.807|48.0|0.995|01-01-2023|Antofagasta|
+Concepcion|129|0.721|63.0|0.992|01-01-2023|Antofagasta|
+Cali|48|0.542|112.0|1.0|01-01-2023|Antofagasta|
+Santiago|1236|0.8390000000000001|53.0|0.99|01-01-2020|Calama|
+La Serena|85|0.8|74.0|1.0|01-01-2020|Calama|
+Lima|29|0.414|42.0|1.0|01-01-2020|Calama|
+Santiago|369|0.77|52.0|0.946|01-04-2020|Calama|
+Antofagasta|27|0.9259999999999999|47.0|1.0|01-04-2020|Calama|
+La Serena|88|0.636|38.0|0.9359999999999999|01-04-2020|Calama|
+Iquique|6|0.5|64.0|0.857|01-04-2020|Calama|
+Arica|8|0.5|38.0|1.0|01-04-2020|Calama|
+Concepcion|83|0.8190000000000001|47.0|0.976|01-04-2020|Calama|
+Santiago|367|0.7190000000000001|88.0|0.9390000000000001|01-07-2020|Calama|
+Antofagasta|133|0.85|41.0|0.985|01-07-2020|Calama|
+La Serena|98|0.8270000000000001|72.0|1.0|01-07-2020|Calama|
+Iquique|8|0.625|64.0|0.889|01-07-2020|Calama|
+Arica|18|0.9440000000000001|25.0|1.0|01-07-2020|Calama|
+Concepcion|22|0.727|56.0|0.917|01-07-2020|Calama|
+Santiago|976|0.856|82.0|0.93|01-10-2020|Calama|
+Antofagasta|38|0.895|25.0|0.95|01-10-2020|Calama|
+La Serena|136|0.816|41.0|0.993|01-10-2020|Calama|
+Arica|9|1.0|0.0|1.0|01-10-2020|Calama|
+Santiago|887|0.922|50.0|0.975|01-01-2021|Calama|
+Antofagasta|8|0.75|129.0|1.0|01-01-2021|Calama|
+La Serena|164|0.841|42.0|0.9940000000000001|01-01-2021|Calama|
+Iquique|1|1.0|0.0|1.0|01-01-2021|Calama|
+Santiago|845|0.92|53.0|0.985|01-04-2021|Calama|
+Antofagasta|11|0.727|44.0|1.0|01-04-2021|Calama|
+La Serena|177|0.9209999999999999|89.0|0.9890000000000001|01-04-2021|Calama|
+Iquique|5|1.0|0.0|1.0|01-04-2021|Calama|
+Concepcion|73|0.877|37.0|0.986|01-04-2021|Calama|
+Copiapo|1|0.0|19.0|1.0|01-04-2021|Calama|
+Santiago|1255|0.92|52.0|0.9840000000000001|01-07-2021|Calama|
+Antofagasta|6|0.667|32.0|1.0|01-07-2021|Calama|
+La Serena|248|0.903|64.0|1.0|01-07-2021|Calama|
+Concepcion|115|0.6779999999999999|55.0|1.0|01-07-2021|Calama|
+Copiapo|4|0.5|39.0|1.0|01-07-2021|Calama|
+Santiago|1258|0.802|35.0|0.976|01-10-2021|Calama|
+Antofagasta|6|0.5|52.0|1.0|01-10-2021|Calama|
+La Serena|241|0.6890000000000001|38.0|0.9840000000000001|01-10-2021|Calama|
+Arica|1|0.0|88.0|1.0|01-10-2021|Calama|
+Concepcion|120|0.633|72.0|0.992|01-10-2021|Calama|
+Santiago|1187|0.8340000000000001|40.0|0.983|01-01-2022|Calama|
+Antofagasta|1|1.0|0.0|1.0|01-01-2022|Calama|
+La Serena|214|0.71|40.0|1.0|01-01-2022|Calama|
+La Paz|1|1.0|0.0|1.0|01-01-2022|Calama|
+Concepcion|112|0.607|64.0|1.0|01-01-2022|Calama|
+Santiago|1134|0.8440000000000001|49.0|0.996|01-04-2022|Calama|
+Antofagasta|5|0.2|42.0|1.0|01-04-2022|Calama|
+La Serena|204|0.794|41.0|0.99|01-04-2022|Calama|
+Concepcion|88|0.602|59.0|0.978|01-04-2022|Calama|
+Copiapo|1|0.0|17.0|1.0|01-04-2022|Calama|
+Santiago|1163|0.818|44.0|0.991|01-07-2022|Calama|
+Antofagasta|4|0.75|24.0|1.0|01-07-2022|Calama|
+La Serena|178|0.792|34.0|1.0|01-07-2022|Calama|
+Concepcion|82|0.598|32.0|1.0|01-07-2022|Calama|
+Antofagasta|9|0.889|84.0|1.0|01-10-2022|Calama|
+La Serena|176|0.8240000000000001|55.0|0.9940000000000001|01-10-2022|Calama|
+Santiago|1297|0.8029999999999999|47.0|0.9890000000000001|01-10-2022|Calama|
+Concepcion|76|0.6579999999999999|52.0|0.9740000000000001|01-10-2022|Calama|
+Antofagasta|3|1.0|0.0|1.0|01-01-2023|Calama|
+La Serena|201|0.861|49.0|0.995|01-01-2023|Calama|
+Santiago|1325|0.836|41.0|0.996|01-01-2023|Calama|
+Concepcion|93|0.516|58.0|1.0|01-01-2023|Calama|
+La Serena|1|1.0|0.0|1.0|01-01-2020|Copiapo|
+Santiago|431|0.865|54.0|1.0|01-01-2020|Copiapo|
+Santiago|8|1.0|0.0|0.889|01-04-2020|Copiapo|
+La Serena|23|0.9129999999999999|43.0|1.0|01-04-2020|Copiapo|
+Santiago|37|0.919|26.0|1.0|01-07-2020|Copiapo|
+Concepcion|1|1.0|0.0|1.0|01-07-2020|Copiapo|
+Santiago|260|0.9|73.0|0.992|01-10-2020|Copiapo|
+Santiago|337|0.941|43.0|0.966|01-01-2021|Copiapo|
+Iquique|3|1.0|0.0|1.0|01-01-2021|Copiapo|
+Arica|4|1.0|0.0|1.0|01-01-2021|Copiapo|
+Santiago|277|0.9390000000000001|50.0|0.972|01-04-2021|Copiapo|
+Antofagasta|13|0.615|65.0|1.0|01-04-2021|Copiapo|
+Calama|2|0.5|116.0|1.0|01-04-2021|Copiapo|
+Iquique|3|0.667|17.0|0.75|01-04-2021|Copiapo|
+Arica|2|1.0|0.0|1.0|01-04-2021|Copiapo|
+Santiago|463|0.9159999999999999|38.0|0.9590000000000001|01-07-2021|Copiapo|
+Antofagasta|13|0.9229999999999999|45.0|1.0|01-07-2021|Copiapo|
+Iquique|3|0.667|29.0|1.0|01-07-2021|Copiapo|
+Santiago|532|0.865|47.0|0.991|01-10-2021|Copiapo|
+Antofagasta|13|0.769|22.0|1.0|01-10-2021|Copiapo|
+Arica|1|1.0|0.0|1.0|01-10-2021|Copiapo|
+Concepcion|1|0.0|16.0|1.0|01-10-2021|Copiapo|
+Santiago|517|0.87|76.0|0.9940000000000001|01-01-2022|Copiapo|
+Calama|1|1.0|0.0|1.0|01-01-2022|Copiapo|
+Concepcion|4|1.0|0.0|1.0|01-01-2022|Copiapo|
+Santiago|536|0.8809999999999999|71.0|0.991|01-04-2022|Copiapo|
+Concepcion|7|1.0|0.0|1.0|01-04-2022|Copiapo|
+Santiago|508|0.8759999999999999|53.0|0.9940000000000001|01-07-2022|Copiapo|
+Concepcion|12|0.833|27.0|1.0|01-07-2022|Copiapo|
+Santiago|501|0.912|53.0|0.992|01-10-2022|Copiapo|
+Concepcion|21|0.81|34.0|1.0|01-10-2022|Copiapo|
+Santiago|510|0.935|53.0|0.992|01-01-2023|Copiapo|
+Concepcion|14|0.7859999999999999|25.0|1.0|01-01-2023|Copiapo|
+Santiago|647|0.884|71.0|1.0|01-01-2020|LaSerena|
+Antofagasta|159|0.836|93.0|1.0|01-01-2020|LaSerena|
+Iquique|77|0.831|103.0|1.0|01-01-2020|LaSerena|
+Arica|32|0.7809999999999999|104.0|1.0|01-01-2020|LaSerena|
+Calama|87|0.736|86.0|1.0|01-01-2020|LaSerena|
+Santiago|179|0.735|46.0|0.937|01-04-2020|LaSerena|
+Antofagasta|116|0.905|43.0|0.9059999999999999|01-04-2020|LaSerena|
+Calama|90|0.8|46.0|0.9179999999999999|01-04-2020|LaSerena|
+Iquique|18|0.9440000000000001|99.0|0.857|01-04-2020|LaSerena|
+Concepcion|3|0.33299999999999996|43.0|1.0|01-04-2020|LaSerena|
+Copiapo|22|0.8640000000000001|21.0|1.0|01-04-2020|LaSerena|
+Santiago|180|0.794|88.0|0.9890000000000001|01-07-2020|LaSerena|
+Antofagasta|114|0.816|90.0|0.983|01-07-2020|LaSerena|
+Calama|111|0.7390000000000001|47.0|1.0|01-07-2020|LaSerena|
+Iquique|26|0.9620000000000001|162.0|1.0|01-07-2020|LaSerena|
+Arica|16|1.0|0.0|1.0|01-07-2020|LaSerena|
+Concepcion|16|1.0|0.0|0.889|01-07-2020|LaSerena|
+Santiago|425|0.875|59.0|0.991|01-10-2020|LaSerena|
+Antofagasta|183|0.8420000000000001|85.0|0.9890000000000001|01-10-2020|LaSerena|
+Calama|161|0.77|38.0|0.988|01-10-2020|LaSerena|
+Iquique|40|0.925|37.0|0.889|01-10-2020|LaSerena|
+Arica|26|0.9229999999999999|22.0|0.929|01-10-2020|LaSerena|
+La Paz|1|1.0|0.0|1.0|01-10-2020|LaSerena|
+Lima|4|0.5|24.0|1.0|01-10-2020|LaSerena|
+Rio de Janeiro|1|0.0|66.0|1.0|01-10-2020|LaSerena|
+Santiago|609|0.9390000000000001|64.0|0.9740000000000001|01-01-2021|LaSerena|
+Antofagasta|227|0.9209999999999999|85.0|0.978|01-01-2021|LaSerena|
+Calama|172|0.872|50.0|0.9940000000000001|01-01-2021|LaSerena|
+Iquique|86|0.9420000000000001|50.0|0.966|01-01-2021|LaSerena|
+Arica|31|0.968|107.0|1.0|01-01-2021|LaSerena|
+Santiago|461|0.915|46.0|0.975|01-04-2021|LaSerena|
+Antofagasta|223|0.9279999999999999|63.0|0.978|01-04-2021|LaSerena|
+Calama|170|0.894|77.0|0.9940000000000001|01-04-2021|LaSerena|
+Iquique|64|0.813|126.0|1.0|01-04-2021|LaSerena|
+Arica|21|0.9520000000000001|42.0|0.955|01-04-2021|LaSerena|
+Concepcion|3|1.0|0.0|1.0|01-04-2021|LaSerena|
+Santiago|744|0.8909999999999999|38.0|0.992|01-07-2021|LaSerena|
+Antofagasta|310|0.903|57.0|0.9940000000000001|01-07-2021|LaSerena|
+Calama|239|0.9|56.0|0.992|01-07-2021|LaSerena|
+Iquique|139|0.892|36.0|0.9590000000000001|01-07-2021|LaSerena|
+Arica|37|0.8109999999999999|44.0|1.0|01-07-2021|LaSerena|
+Concepcion|1|1.0|0.0|1.0|01-07-2021|LaSerena|
+Copiapo|1|1.0|0.0|1.0|01-07-2021|LaSerena|
+Santiago|766|0.813|37.0|0.996|01-10-2021|LaSerena|
+Antofagasta|270|0.848|38.0|0.9890000000000001|01-10-2021|LaSerena|
+Calama|242|0.789|44.0|0.976|01-10-2021|LaSerena|
+Iquique|168|0.857|49.0|1.0|01-10-2021|LaSerena|
+Arica|39|0.821|50.0|1.0|01-10-2021|LaSerena|
+Santiago|701|0.8270000000000001|41.0|0.987|01-01-2022|LaSerena|
+Antofagasta|226|0.8270000000000001|45.0|0.991|01-01-2022|LaSerena|
+Calama|219|0.7809999999999999|47.0|0.982|01-01-2022|LaSerena|
+Iquique|135|0.8220000000000001|61.0|0.971|01-01-2022|LaSerena|
+Arica|41|0.7070000000000001|56.0|0.976|01-01-2022|LaSerena|
+Santiago|602|0.87|57.0|0.995|01-04-2022|LaSerena|
+Antofagasta|194|0.825|44.0|0.975|01-04-2022|LaSerena|
+Calama|206|0.7959999999999999|47.0|0.99|01-04-2022|LaSerena|
+Iquique|110|0.855|48.0|0.982|01-04-2022|LaSerena|
+Arica|26|0.731|47.0|0.963|01-04-2022|LaSerena|
+Concepcion|29|0.759|27.0|0.935|01-04-2022|LaSerena|
+Santiago|617|0.838|46.0|0.99|01-07-2022|LaSerena|
+Antofagasta|179|0.799|34.0|0.9840000000000001|01-07-2022|LaSerena|
+Calama|171|0.795|48.0|1.0|01-07-2022|LaSerena|
+Iquique|102|0.755|38.0|1.0|01-07-2022|LaSerena|
+Arica|28|0.857|41.0|1.0|01-07-2022|LaSerena|
+Concepcion|29|0.655|39.0|1.0|01-07-2022|LaSerena|
+Copiapo|1|0.0|17.0|1.0|01-07-2022|LaSerena|
+Arica|39|0.897|92.0|1.0|01-10-2022|LaSerena|
+Calama|185|0.87|84.0|0.9840000000000001|01-10-2022|LaSerena|
+Santiago|626|0.8270000000000001|53.0|0.995|01-10-2022|LaSerena|
+Antofagasta|189|0.762|43.0|0.99|01-10-2022|LaSerena|
+Iquique|83|0.747|69.0|0.988|01-10-2022|LaSerena|
+Concepcion|39|0.6920000000000001|48.0|1.0|01-10-2022|LaSerena|
+Calama|202|0.871|42.0|0.995|01-01-2023|LaSerena|
+Santiago|692|0.851|59.0|0.997|01-01-2023|LaSerena|
+Arica|52|0.8270000000000001|74.0|1.0|01-01-2023|LaSerena|
+Antofagasta|198|0.8029999999999999|42.0|1.0|01-01-2023|LaSerena|
+Iquique|85|0.765|95.0|0.977|01-01-2023|LaSerena|
+Concepcion|39|0.59|32.0|1.0|01-01-2023|LaSerena|
+Santiago|127|0.8270000000000001|107.0|1.0|01-01-2020|IslaDePascua|
+Papeete|9|0.778|25.0|1.0|01-01-2020|IslaDePascua|
+Santiago|4|0.25|148.0|0.8|01-04-2020|IslaDePascua|
+Santiago|4|0.25|42.0|1.0|01-07-2020|IslaDePascua|
+Santiago|1|0.0|118.0|1.0|01-10-2020|IslaDePascua|
+Santiago|1|1.0|0.0|1.0|01-01-2021|IslaDePascua|
+Santiago|1|0.0|496.0|1.0|01-04-2021|IslaDePascua|
+Santiago|6|0.5|62.0|1.0|01-07-2021|IslaDePascua|
+Santiago|13|0.308|42.0|1.0|01-10-2021|IslaDePascua|
+Santiago|13|0.154|54.0|0.929|01-01-2022|IslaDePascua|
+Santiago|12|0.583|59.0|1.0|01-04-2022|IslaDePascua|
+Santiago|24|0.45799999999999996|46.0|1.0|01-07-2022|IslaDePascua|
+Santiago|39|0.667|25.0|1.0|01-10-2022|IslaDePascua|
+Santiago|59|0.915|60.0|1.0|01-01-2023|IslaDePascua|
+Balmaceda|21|0.9520000000000001|16.0|1.0|01-01-2020|Concepcion|
+Iquique|105|0.9329999999999999|36.0|1.0|01-01-2020|Concepcion|
+La Serena|36|0.917|49.0|1.0|01-01-2020|Concepcion|
+Santiago|804|0.905|52.0|0.996|01-01-2020|Concepcion|
+Antofagasta|67|0.8809999999999999|73.0|1.0|01-01-2020|Concepcion|
+Arica|29|0.862|25.0|1.0|01-01-2020|Concepcion|
+Lima|49|0.857|32.0|1.0|01-01-2020|Concepcion|
+Calama|72|0.792|50.0|1.0|01-01-2020|Concepcion|
+Punta Arenas|47|0.787|56.0|1.0|01-01-2020|Concepcion|
+Puerto Montt|4|0.5|39.0|1.0|01-01-2020|Concepcion|
+Puerto Montt|2|1.0|0.0|1.0|01-04-2020|Concepcion|
+Punta Arenas|2|0.5|19.0|0.105|01-04-2020|Concepcion|
+Santiago|141|0.7659999999999999|43.0|0.8290000000000001|01-04-2020|Concepcion|
+Antofagasta|33|0.818|37.0|0.892|01-04-2020|Concepcion|
+La Serena|2|0.0|45.0|1.0|01-04-2020|Concepcion|
+Calama|83|0.747|33.0|0.988|01-04-2020|Concepcion|
+Iquique|10|0.6|25.0|0.769|01-04-2020|Concepcion|
+Balmaceda|1|1.0|0.0|1.0|01-07-2020|Concepcion|
+Punta Arenas|1|1.0|0.0|1.0|01-07-2020|Concepcion|
+Santiago|216|0.8290000000000001|48.0|0.995|01-07-2020|Concepcion|
+Antofagasta|113|0.823|45.0|1.0|01-07-2020|Concepcion|
+La Serena|16|0.875|19.0|1.0|01-07-2020|Concepcion|
+Calama|19|0.8420000000000001|23.0|0.905|01-07-2020|Concepcion|
+Iquique|23|0.652|70.0|1.0|01-07-2020|Concepcion|
+Copiapo|1|1.0|0.0|1.0|01-07-2020|Concepcion|
+Temuco|2|0.5|16.0|1.0|01-07-2020|Concepcion|
+Puerto Montt|17|1.0|0.0|0.9440000000000001|01-10-2020|Concepcion|
+Santiago|555|0.8759999999999999|48.0|0.972|01-10-2020|Concepcion|
+Antofagasta|102|0.863|49.0|0.99|01-10-2020|Concepcion|
+La Serena|27|0.963|20.0|0.9309999999999999|01-10-2020|Concepcion|
+Calama|67|0.8809999999999999|37.0|0.985|01-10-2020|Concepcion|
+Iquique|69|0.71|37.0|1.0|01-10-2020|Concepcion|
+Arica|2|1.0|0.0|1.0|01-10-2020|Concepcion|
+Temuco|1|0.0|28.0|1.0|01-10-2020|Concepcion|
+Montevideo|2|0.0|50.0|1.0|01-10-2020|Concepcion|
+Balmaceda|22|0.818|35.0|1.0|01-01-2021|Concepcion|
+Puerto Montt|30|0.667|47.0|1.0|01-01-2021|Concepcion|
+Santiago|560|0.925|36.0|0.966|01-01-2021|Concepcion|
+Antofagasta|129|0.93|51.0|0.992|01-01-2021|Concepcion|
+La Serena|24|0.833|46.0|1.0|01-01-2021|Concepcion|
+Calama|84|0.81|48.0|0.955|01-01-2021|Concepcion|
+Iquique|104|0.9329999999999999|88.0|0.981|01-01-2021|Concepcion|
+Arica|7|1.0|0.0|1.0|01-01-2021|Concepcion|
+Valdivia|1|0.0|48.0|1.0|01-01-2021|Concepcion|
+Puerto Montt|26|0.9229999999999999|16.0|1.0|01-04-2021|Concepcion|
+Santiago|492|0.919|44.0|0.97|01-04-2021|Concepcion|
+Antofagasta|100|0.9|34.0|0.971|01-04-2021|Concepcion|
+La Serena|3|1.0|0.0|1.0|01-04-2021|Concepcion|
+Calama|72|0.889|40.0|1.0|01-04-2021|Concepcion|
+Iquique|84|0.917|37.0|1.0|01-04-2021|Concepcion|
+Temuco|1|1.0|0.0|1.0|01-04-2021|Concepcion|
+Castro (Chiloe)|3|1.0|0.0|1.0|01-04-2021|Concepcion|
+Buenos Aires|2|1.0|0.0|1.0|01-04-2021|Concepcion|
+Asuncion|1|1.0|0.0|1.0|01-04-2021|Concepcion|
+Puerto Montt|51|0.667|62.0|1.0|01-07-2021|Concepcion|
+Santiago|835|0.855|38.0|0.991|01-07-2021|Concepcion|
+Antofagasta|122|0.738|52.0|0.976|01-07-2021|Concepcion|
+Calama|114|0.807|75.0|1.0|01-07-2021|Concepcion|
+Iquique|122|0.893|45.0|1.0|01-07-2021|Concepcion|
+Copiapo|1|1.0|0.0|1.0|01-07-2021|Concepcion|
+Temuco|1|1.0|0.0|1.0|01-07-2021|Concepcion|
+Puerto Montt|51|0.706|62.0|1.0|01-10-2021|Concepcion|
+Punta Arenas|17|0.882|29.0|1.0|01-10-2021|Concepcion|
+Santiago|908|0.768|45.0|0.992|01-10-2021|Concepcion|
+Antofagasta|136|0.757|52.0|0.986|01-10-2021|Concepcion|
+Calama|121|0.7440000000000001|73.0|0.992|01-10-2021|Concepcion|
+Iquique|204|0.882|51.0|0.99|01-10-2021|Concepcion|
+Copiapo|1|1.0|0.0|1.0|01-10-2021|Concepcion|
+Temuco|1|1.0|0.0|1.0|01-10-2021|Concepcion|
+Puerto Montt|52|0.8079999999999999|23.0|1.0|01-01-2022|Concepcion|
+Punta Arenas|26|0.615|34.0|1.0|01-01-2022|Concepcion|
+Santiago|925|0.772|48.0|0.988|01-01-2022|Concepcion|
+Antofagasta|143|0.657|63.0|0.986|01-01-2022|Concepcion|
+Calama|114|0.667|77.0|1.0|01-01-2022|Concepcion|
+Iquique|174|0.81|61.0|0.983|01-01-2022|Concepcion|
+Copiapo|4|0.75|16.0|1.0|01-01-2022|Concepcion|
+Temuco|1|0.0|95.0|1.0|01-01-2022|Concepcion|
+Balmaceda|1|0.0|192.0|1.0|01-04-2022|Concepcion|
+Puerto Montt|53|0.679|89.0|0.981|01-04-2022|Concepcion|
+Punta Arenas|18|0.778|141.0|1.0|01-04-2022|Concepcion|
+Santiago|824|0.767|53.0|0.965|01-04-2022|Concepcion|
+Antofagasta|124|0.7979999999999999|62.0|0.9690000000000001|01-04-2022|Concepcion|
+La Serena|31|0.742|33.0|0.9390000000000001|01-04-2022|Concepcion|
+Calama|91|0.7909999999999999|86.0|0.968|01-04-2022|Concepcion|
+Iquique|177|0.836|60.0|1.0|01-04-2022|Concepcion|
+Copiapo|7|0.857|16.0|1.0|01-04-2022|Concepcion|
+Valdivia|1|0.0|179.0|1.0|01-04-2022|Concepcion|
+Puerto Montt|54|0.833|39.0|1.0|01-07-2022|Concepcion|
+Santiago|983|0.7979999999999999|37.0|0.991|01-07-2022|Concepcion|
+Antofagasta|120|0.833|52.0|1.0|01-07-2022|Concepcion|
+La Serena|28|0.857|40.0|1.0|01-07-2022|Concepcion|
+Calama|82|0.8290000000000001|35.0|1.0|01-07-2022|Concepcion|
+Iquique|156|0.885|49.0|0.9940000000000001|01-07-2022|Concepcion|
+Copiapo|11|0.818|35.0|1.0|01-07-2022|Concepcion|
+La Serena|38|0.868|30.0|1.0|01-10-2022|Concepcion|
+Iquique|166|0.8490000000000001|40.0|1.0|01-10-2022|Concepcion|
+Antofagasta|132|0.8029999999999999|64.0|1.0|01-10-2022|Concepcion|
+Santiago|1062|0.782|44.0|0.996|01-10-2022|Concepcion|
+Puerto Montt|45|0.778|63.0|0.978|01-10-2022|Concepcion|
+Calama|82|0.732|68.0|0.988|01-10-2022|Concepcion|
+Copiapo|21|0.7140000000000001|32.0|1.0|01-10-2022|Concepcion|
+Punta Arenas|18|0.389|57.0|1.0|01-10-2022|Concepcion|
+Puerto Montt|74|0.838|42.0|1.0|01-01-2023|Concepcion|
+La Serena|39|0.795|26.0|1.0|01-01-2023|Concepcion|
+Copiapo|14|0.7859999999999999|27.0|1.0|01-01-2023|Concepcion|
+Santiago|1000|0.782|41.0|0.993|01-01-2023|Concepcion|
+Iquique|114|0.772|88.0|1.0|01-01-2023|Concepcion|
+Calama|93|0.763|84.0|1.0|01-01-2023|Concepcion|
+Antofagasta|128|0.742|76.0|1.0|01-01-2023|Concepcion|
+Punta Arenas|33|0.455|33.0|1.0|01-01-2023|Concepcion|
+Balmaceda|28|0.893|21.0|1.0|01-01-2020|Temuco|
+Punta Arenas|27|0.852|47.0|1.0|01-01-2020|Temuco|
+Santiago|834|0.851|46.0|1.0|01-01-2020|Temuco|
+Antofagasta|14|0.643|61.0|1.0|01-01-2020|Temuco|
+Puerto Montt|1|0.0|24.0|1.0|01-01-2020|Temuco|
+Puerto Montt|21|0.905|20.0|1.0|01-04-2020|Temuco|
+Santiago|40|1.0|0.0|0.8|01-04-2020|Temuco|
+Balmaceda|2|1.0|0.0|1.0|01-07-2020|Temuco|
+Puerto Montt|32|1.0|0.0|1.0|01-07-2020|Temuco|
+Santiago|103|0.893|50.0|1.0|01-07-2020|Temuco|
+Concepcion|2|1.0|0.0|1.0|01-07-2020|Temuco|
+Valdivia|1|1.0|0.0|1.0|01-07-2020|Temuco|
+Balmaceda|8|1.0|0.0|1.0|01-10-2020|Temuco|
+Puerto Montt|7|0.857|22.0|0.875|01-10-2020|Temuco|
+Santiago|381|0.877|49.0|0.9740000000000001|01-10-2020|Temuco|
+Antofagasta|3|1.0|0.0|1.0|01-10-2020|Temuco|
+Valdivia|9|1.0|0.0|1.0|01-10-2020|Temuco|
+Osorno|1|1.0|0.0|1.0|01-10-2020|Temuco|
+Balmaceda|25|0.68|25.0|1.0|01-01-2021|Temuco|
+Puerto Montt|2|1.0|0.0|1.0|01-01-2021|Temuco|
+Punta Arenas|16|0.875|25.0|1.0|01-01-2021|Temuco|
+Santiago|480|0.938|72.0|0.976|01-01-2021|Temuco|
+Antofagasta|2|1.0|0.0|1.0|01-01-2021|Temuco|
+Balmaceda|16|0.938|137.0|1.0|01-04-2021|Temuco|
+Puerto Montt|14|0.929|18.0|1.0|01-04-2021|Temuco|
+Punta Arenas|12|0.41700000000000004|23.0|1.0|01-04-2021|Temuco|
+Santiago|297|0.9390000000000001|38.0|0.9740000000000001|01-04-2021|Temuco|
+Concepcion|1|1.0|0.0|1.0|01-04-2021|Temuco|
+Valdivia|1|1.0|0.0|1.0|01-04-2021|Temuco|
+Castro (Chiloe)|6|1.0|0.0|1.0|01-04-2021|Temuco|
+Osorno|1|1.0|0.0|1.0|01-04-2021|Temuco|
+Balmaceda|25|0.76|54.0|1.0|01-07-2021|Temuco|
+Puerto Montt|5|0.4|64.0|1.0|01-07-2021|Temuco|
+Punta Arenas|26|0.654|35.0|1.0|01-07-2021|Temuco|
+Santiago|605|0.888|50.0|0.99|01-07-2021|Temuco|
+Balmaceda|35|0.629|86.0|1.0|01-10-2021|Temuco|
+Puerto Montt|1|0.0|26.0|1.0|01-10-2021|Temuco|
+Punta Arenas|21|0.5710000000000001|65.0|1.0|01-10-2021|Temuco|
+Santiago|836|0.74|42.0|0.9840000000000001|01-10-2021|Temuco|
+Balmaceda|40|0.55|44.0|1.0|01-01-2022|Temuco|
+Punta Arenas|34|0.47100000000000003|85.0|1.0|01-01-2022|Temuco|
+Santiago|834|0.727|33.0|0.995|01-01-2022|Temuco|
+Concepcion|1|1.0|0.0|1.0|01-01-2022|Temuco|
+Balmaceda|26|0.731|61.0|1.0|01-04-2022|Temuco|
+Punta Arenas|26|0.6920000000000001|34.0|1.0|01-04-2022|Temuco|
+Santiago|567|0.84|41.0|0.995|01-04-2022|Temuco|
+Balmaceda|26|0.846|62.0|1.0|01-07-2022|Temuco|
+Puerto Montt|1|1.0|0.0|1.0|01-07-2022|Temuco|
+Punta Arenas|17|0.47100000000000003|42.0|1.0|01-07-2022|Temuco|
+Santiago|663|0.7959999999999999|44.0|0.995|01-07-2022|Temuco|
+Valdivia|1|0.0|19.0|1.0|01-07-2022|Temuco|
+Balmaceda|38|0.8420000000000001|61.0|0.9740000000000001|01-10-2022|Temuco|
+Santiago|734|0.762|39.0|0.987|01-10-2022|Temuco|
+Punta Arenas|5|0.2|28.0|0.833|01-10-2022|Temuco|
+Puerto Montt|2|0.0|52.0|1.0|01-10-2022|Temuco|
+Valdivia|1|0.0|16.0|1.0|01-10-2022|Temuco|
+Valdivia|2|1.0|0.0|1.0|01-01-2023|Temuco|
+Punta Arenas|33|0.758|42.0|1.0|01-01-2023|Temuco|
+Santiago|817|0.7559999999999999|46.0|0.992|01-01-2023|Temuco|
+Balmaceda|39|0.6920000000000001|67.0|1.0|01-01-2023|Temuco|
+Santiago|366|0.85|47.0|1.0|01-01-2020|Valdivia|
+Santiago|4|1.0|0.0|1.0|01-04-2020|Valdivia|
+Puerto Montt|2|1.0|0.0|1.0|01-07-2020|Valdivia|
+Santiago|12|0.917|26.0|1.0|01-07-2020|Valdivia|
+Temuco|1|1.0|0.0|1.0|01-07-2020|Valdivia|
+Puerto Montt|7|1.0|0.0|1.0|01-10-2020|Valdivia|
+Santiago|86|0.779|39.0|0.966|01-10-2020|Valdivia|
+Temuco|8|1.0|0.0|1.0|01-10-2020|Valdivia|
+Osorno|3|0.0|37.0|1.0|01-10-2020|Valdivia|
+Puerto Montt|1|1.0|0.0|1.0|01-01-2021|Valdivia|
+Santiago|179|0.888|67.0|0.9570000000000001|01-01-2021|Valdivia|
+Temuco|1|1.0|0.0|1.0|01-01-2021|Valdivia|
+Osorno|1|1.0|0.0|1.0|01-01-2021|Valdivia|
+Puerto Montt|8|1.0|0.0|1.0|01-04-2021|Valdivia|
+Santiago|97|0.825|60.0|0.9420000000000001|01-04-2021|Valdivia|
+Concepcion|1|0.0|17.0|1.0|01-04-2021|Valdivia|
+Temuco|1|1.0|0.0|1.0|01-04-2021|Valdivia|
+Puerto Montt|1|1.0|0.0|1.0|01-07-2021|Valdivia|
+Santiago|234|0.774|64.0|0.987|01-07-2021|Valdivia|
+Santiago|370|0.727|45.0|0.995|01-10-2021|Valdivia|
+Temuco|1|0.0|45.0|1.0|01-10-2021|Valdivia|
+Santiago|398|0.7659999999999999|55.0|0.993|01-01-2022|Valdivia|
+Puerto Montt|1|0.0|90.0|1.0|01-04-2022|Valdivia|
+Santiago|260|0.723|51.0|0.981|01-04-2022|Valdivia|
+Santiago|298|0.785|45.0|0.993|01-07-2022|Valdivia|
+Concepcion|1|0.0|91.0|1.0|01-07-2022|Valdivia|
+Santiago|308|0.789|52.0|0.997|01-10-2022|Valdivia|
+Santiago|431|0.768|45.0|0.986|01-01-2023|Valdivia|
+Santiago|173|0.8440000000000001|52.0|1.0|01-01-2020|Osorno|
+Puerto Montt|2|0.5|31.0|1.0|01-10-2020|Osorno|
+Santiago|65|0.754|46.0|0.9420000000000001|01-10-2020|Osorno|
+Temuco|1|1.0|0.0|1.0|01-10-2020|Osorno|
+Valdivia|1|0.0|88.0|1.0|01-10-2020|Osorno|
+Santiago|110|0.782|53.0|0.991|01-01-2021|Osorno|
+Valdivia|1|1.0|0.0|1.0|01-01-2021|Osorno|
+Santiago|56|0.768|72.0|0.889|01-04-2021|Osorno|
+Concepcion|1|1.0|0.0|1.0|01-04-2021|Osorno|
+Temuco|3|1.0|0.0|1.0|01-04-2021|Osorno|
+Valdivia|3|0.667|38.0|1.0|01-04-2021|Osorno|
+Santiago|135|0.867|58.0|0.978|01-07-2021|Osorno|
+Santiago|233|0.8029999999999999|30.0|0.996|01-10-2021|Osorno|
+Santiago|249|0.7909999999999999|41.0|0.992|01-01-2022|Osorno|
+Santiago|170|0.818|52.0|0.983|01-04-2022|Osorno|
+Santiago|176|0.795|73.0|0.972|01-07-2022|Osorno|
+Santiago|207|0.787|32.0|0.995|01-10-2022|Osorno|
+Santiago|256|0.773|33.0|0.992|01-01-2023|Osorno|
+Balmaceda|208|0.841|58.0|0.99|01-01-2020|PuertoMontt|
+Punta Arenas|282|0.833|52.0|1.0|01-01-2020|PuertoMontt|
+Santiago|1256|0.821|46.0|0.997|01-01-2020|PuertoMontt|
+Antofagasta|14|0.643|42.0|1.0|01-01-2020|PuertoMontt|
+Osorno|1|0.0|26.0|1.0|01-01-2020|PuertoMontt|
+Balmaceda|51|0.784|52.0|1.0|01-04-2020|PuertoMontt|
+Punta Arenas|24|0.625|68.0|0.96|01-04-2020|PuertoMontt|
+Santiago|105|0.667|74.0|0.963|01-04-2020|PuertoMontt|
+Concepcion|1|1.0|0.0|1.0|01-04-2020|PuertoMontt|
+Temuco|12|1.0|0.0|1.0|01-04-2020|PuertoMontt|
+Puerto Natales|1|1.0|0.0|1.0|01-04-2020|PuertoMontt|
+Balmaceda|91|0.802|59.0|0.978|01-07-2020|PuertoMontt|
+Punta Arenas|80|0.738|58.0|0.988|01-07-2020|PuertoMontt|
+Santiago|214|0.855|50.0|0.995|01-07-2020|PuertoMontt|
+Temuco|32|1.0|0.0|1.0|01-07-2020|PuertoMontt|
+Valdivia|2|1.0|0.0|1.0|01-07-2020|PuertoMontt|
+Balmaceda|109|0.89|54.0|0.982|01-10-2020|PuertoMontt|
+Punta Arenas|131|0.8320000000000001|52.0|0.97|01-10-2020|PuertoMontt|
+Santiago|556|0.862|42.0|0.993|01-10-2020|PuertoMontt|
+Temuco|7|1.0|0.0|1.0|01-10-2020|PuertoMontt|
+Valdivia|7|1.0|0.0|1.0|01-10-2020|PuertoMontt|
+Puerto Natales|9|0.778|19.0|1.0|01-10-2020|PuertoMontt|
+Balmaceda|147|0.8370000000000001|45.0|0.993|01-01-2021|PuertoMontt|
+Punta Arenas|169|0.888|71.0|1.0|01-01-2021|PuertoMontt|
+Santiago|715|0.9259999999999999|49.0|0.9790000000000001|01-01-2021|PuertoMontt|
+Temuco|2|1.0|0.0|1.0|01-01-2021|PuertoMontt|
+Valdivia|1|1.0|0.0|1.0|01-01-2021|PuertoMontt|
+Puerto Natales|58|0.9309999999999999|64.0|1.0|01-01-2021|PuertoMontt|
+Balmaceda|147|0.871|61.0|0.9670000000000001|01-04-2021|PuertoMontt|
+Punta Arenas|154|0.9159999999999999|62.0|0.981|01-04-2021|PuertoMontt|
+Santiago|510|0.925|61.0|0.975|01-04-2021|PuertoMontt|
+Concepcion|24|0.958|195.0|1.0|01-04-2021|PuertoMontt|
+Temuco|13|1.0|0.0|1.0|01-04-2021|PuertoMontt|
+Valdivia|8|1.0|0.0|1.0|01-04-2021|PuertoMontt|
+Puerto Natales|8|0.875|19.0|1.0|01-04-2021|PuertoMontt|
+Balmaceda|229|0.812|58.0|1.0|01-07-2021|PuertoMontt|
+Punta Arenas|206|0.8590000000000001|64.0|1.0|01-07-2021|PuertoMontt|
+Santiago|902|0.857|47.0|0.997|01-07-2021|PuertoMontt|
+Concepcion|51|0.47100000000000003|96.0|1.0|01-07-2021|PuertoMontt|
+Valdivia|2|0.0|102.0|1.0|01-07-2021|PuertoMontt|
+Puerto Natales|7|0.857|16.0|1.0|01-07-2021|PuertoMontt|
+Castro (Chiloe)|1|0.0|41.0|1.0|01-07-2021|PuertoMontt|
+Balmaceda|307|0.8009999999999999|48.0|0.99|01-10-2021|PuertoMontt|
+Punta Arenas|319|0.7809999999999999|33.0|0.997|01-10-2021|PuertoMontt|
+Santiago|1289|0.71|38.0|0.995|01-10-2021|PuertoMontt|
+Concepcion|51|0.47100000000000003|60.0|1.0|01-10-2021|PuertoMontt|
+Puerto Natales|52|0.75|25.0|1.0|01-10-2021|PuertoMontt|
+Castro (Chiloe)|1|1.0|0.0|1.0|01-10-2021|PuertoMontt|
+Balmaceda|270|0.733|39.0|0.993|01-01-2022|PuertoMontt|
+Punta Arenas|304|0.7140000000000001|29.0|1.0|01-01-2022|PuertoMontt|
+Santiago|1296|0.66|40.0|0.991|01-01-2022|PuertoMontt|
+Concepcion|53|0.604|58.0|1.0|01-01-2022|PuertoMontt|
+Puerto Natales|68|0.735|55.0|1.0|01-01-2022|PuertoMontt|
+Castro (Chiloe)|2|0.0|79.0|1.0|01-01-2022|PuertoMontt|
+Valdivia|1|0.0|99.0|1.0|01-01-2022|PuertoMontt|
+Balmaceda|198|0.813|50.0|1.0|01-04-2022|PuertoMontt|
+Punta Arenas|170|0.8290000000000001|81.0|1.0|01-04-2022|PuertoMontt|
+Santiago|901|0.818|44.0|0.997|01-04-2022|PuertoMontt|
+Concepcion|52|0.5579999999999999|84.0|1.0|01-04-2022|PuertoMontt|
+Puerto Natales|18|0.722|36.0|1.0|01-04-2022|PuertoMontt|
+Castro (Chiloe)|2|1.0|0.0|1.0|01-04-2022|PuertoMontt|
+Valdivia|1|0.0|252.0|1.0|01-04-2022|PuertoMontt|
+Osorno|2|0.0|70.0|1.0|01-04-2022|PuertoMontt|
+Balmaceda|249|0.815|49.0|0.98|01-07-2022|PuertoMontt|
+Punta Arenas|185|0.8|44.0|0.995|01-07-2022|PuertoMontt|
+Santiago|984|0.7959999999999999|47.0|0.991|01-07-2022|PuertoMontt|
+Concepcion|57|0.754|39.0|1.0|01-07-2022|PuertoMontt|
+Puerto Natales|21|0.905|17.0|1.0|01-07-2022|PuertoMontt|
+Castro (Chiloe)|2|0.5|179.0|1.0|01-07-2022|PuertoMontt|
+Puerto Natales|100|0.89|41.0|1.0|01-10-2022|PuertoMontt|
+Balmaceda|257|0.868|43.0|0.992|01-10-2022|PuertoMontt|
+Punta Arenas|181|0.823|44.0|0.995|01-10-2022|PuertoMontt|
+Santiago|1046|0.7859999999999999|39.0|0.992|01-10-2022|PuertoMontt|
+Concepcion|43|0.767|73.0|0.977|01-10-2022|PuertoMontt|
+Balmaceda|269|0.8440000000000001|55.0|0.996|01-01-2023|PuertoMontt|
+Santiago|1233|0.8340000000000001|81.0|0.99|01-01-2023|PuertoMontt|
+Punta Arenas|252|0.821|59.0|1.0|01-01-2023|PuertoMontt|
+Puerto Natales|132|0.8109999999999999|63.0|1.0|01-01-2023|PuertoMontt|
+Concepcion|73|0.74|50.0|0.986|01-01-2023|PuertoMontt|
+Temuco|28|0.929|19.0|1.0|01-01-2020|Balmaceda|
+Puerto Montt|208|0.846|45.0|1.0|01-01-2020|Balmaceda|
+Santiago|392|0.8340000000000001|56.0|0.995|01-01-2020|Balmaceda|
+Puerto Montt|53|0.66|65.0|1.0|01-04-2020|Balmaceda|
+Santiago|2|0.5|59.0|1.0|01-04-2020|Balmaceda|
+Puerto Montt|91|0.813|71.0|0.968|01-07-2020|Balmaceda|
+Punta Arenas|3|0.0|41.0|1.0|01-07-2020|Balmaceda|
+Santiago|8|0.75|111.0|0.889|01-07-2020|Balmaceda|
+Concepcion|1|1.0|0.0|1.0|01-07-2020|Balmaceda|
+Temuco|2|1.0|0.0|1.0|01-07-2020|Balmaceda|
+Puerto Montt|107|0.879|51.0|0.982|01-10-2020|Balmaceda|
+Santiago|58|0.7759999999999999|51.0|0.983|01-10-2020|Balmaceda|
+Temuco|8|1.0|0.0|1.0|01-10-2020|Balmaceda|
+Puerto Montt|147|0.8909999999999999|62.0|0.993|01-01-2021|Balmaceda|
+Santiago|98|0.9390000000000001|49.0|0.99|01-01-2021|Balmaceda|
+Temuco|25|0.76|33.0|1.0|01-01-2021|Balmaceda|
+Puerto Montt|145|0.897|73.0|0.9670000000000001|01-04-2021|Balmaceda|
+Santiago|74|0.892|38.0|1.0|01-04-2021|Balmaceda|
+Temuco|16|0.938|105.0|1.0|01-04-2021|Balmaceda|
+Puerto Montt|229|0.878|71.0|1.0|01-07-2021|Balmaceda|
+Santiago|121|0.851|40.0|1.0|01-07-2021|Balmaceda|
+Temuco|25|0.76|64.0|1.0|01-07-2021|Balmaceda|
+Puerto Montt|306|0.81|45.0|0.987|01-10-2021|Balmaceda|
+Santiago|291|0.8009999999999999|48.0|0.993|01-10-2021|Balmaceda|
+Temuco|35|0.5710000000000001|84.0|1.0|01-10-2021|Balmaceda|
+Puerto Montt|271|0.815|42.0|0.996|01-01-2022|Balmaceda|
+Santiago|378|0.743|34.0|0.997|01-01-2022|Balmaceda|
+Temuco|40|0.5|44.0|1.0|01-01-2022|Balmaceda|
+Puerto Montt|195|0.769|47.0|1.0|01-04-2022|Balmaceda|
+Punta Arenas|1|0.0|20.0|1.0|01-04-2022|Balmaceda|
+Santiago|151|0.815|65.0|0.993|01-04-2022|Balmaceda|
+Temuco|26|0.731|62.0|1.0|01-04-2022|Balmaceda|
+Puerto Montt|243|0.802|58.0|0.98|01-07-2022|Balmaceda|
+Santiago|201|0.8759999999999999|57.0|0.966|01-07-2022|Balmaceda|
+Concepcion|1|1.0|0.0|1.0|01-07-2022|Balmaceda|
+Temuco|27|0.778|88.0|1.0|01-07-2022|Balmaceda|
+Puerto Montt|256|0.875|41.0|0.992|01-10-2022|Balmaceda|
+Santiago|225|0.867|54.0|0.996|01-10-2022|Balmaceda|
+Temuco|39|0.795|56.0|1.0|01-10-2022|Balmaceda|
+Punta Arenas|2|0.5|115.0|1.0|01-10-2022|Balmaceda|
+Santiago|230|0.843|43.0|0.996|01-01-2023|Balmaceda|
+Puerto Montt|265|0.8420000000000001|68.0|0.996|01-01-2023|Balmaceda|
+Temuco|39|0.48700000000000004|58.0|1.0|01-01-2023|Balmaceda|
+Punta Arenas|1|0.0|20.0|1.0|01-01-2023|Balmaceda|
+Concepcion|1|0.0|31.0|1.0|01-01-2023|Balmaceda|
+Santiago|126|0.746|126.0|1.0|01-01-2020|PuertoNatales|
+Puerto Montt|1|1.0|1.0|1.0|01-04-2020|PuertoNatales|
+Puerto Montt|9|0.444|9.0|1.0|01-10-2020|PuertoNatales|
+Santiago|5|0.8|5.0|1.0|01-10-2020|PuertoNatales|
+Puerto Montt|58|0.845|58.0|1.0|01-01-2021|PuertoNatales|
+Santiago|37|0.892|37.0|1.0|01-01-2021|PuertoNatales|
+Puerto Montt|8|0.875|379.0|1.0|01-04-2021|PuertoNatales|
+Santiago|1|0.0|35.0|1.0|01-04-2021|PuertoNatales|
+Puerto Montt|7|0.28600000000000003|26.0|1.0|01-07-2021|PuertoNatales|
+Santiago|1|1.0|0.0|1.0|01-07-2021|PuertoNatales|
+Puerto Montt|52|0.846|93.0|1.0|01-10-2021|PuertoNatales|
+Santiago|63|0.635|46.0|1.0|01-10-2021|PuertoNatales|
+Puerto Montt|68|0.8240000000000001|69.0|0.986|01-01-2022|PuertoNatales|
+Santiago|99|0.677|99.0|1.0|01-01-2022|PuertoNatales|
+Puerto Montt|9|0.444|9.0|1.0|01-04-2022|PuertoNatales|
+Santiago|26|0.654|26.0|1.0|01-04-2022|PuertoNatales|
+Puerto Montt|21|0.762|20.0|1.0|01-07-2022|PuertoNatales|
+Puerto Montt|101|0.792|102.0|0.99|01-10-2022|PuertoNatales|
+Santiago|60|0.7|60.0|1.0|01-10-2022|PuertoNatales|
+Punta Arenas|2|0.5|2.0|1.0|01-10-2022|PuertoNatales|
+Puerto Montt|133|0.865|134.0|0.993|01-01-2023|PuertoNatales|
+Santiago|112|0.768|112.0|1.0|01-01-2023|PuertoNatales|
+Santiago|49|0.878|28.0|1.0|01-01-2020|Castro|
+Punta Arenas|4|0.75|16.0|1.0|01-10-2020|Castro|
+Santiago|4|0.75|33.0|1.0|01-10-2020|Castro|
+Punta Arenas|13|0.846|25.0|1.0|01-01-2021|Castro|
+Santiago|51|0.941|40.0|1.0|01-01-2021|Castro|
+Temuco|25|1.0|0.0|1.0|01-01-2021|Castro|
+Punta Arenas|5|1.0|0.0|1.0|01-04-2021|Castro|
+Santiago|50|0.88|29.0|1.0|01-04-2021|Castro|
+Concepcion|3|1.0|0.0|1.0|01-04-2021|Castro|
+Temuco|6|1.0|0.0|1.0|01-04-2021|Castro|
+Punta Arenas|21|0.7140000000000001|59.0|1.0|01-07-2021|Castro|
+Santiago|88|0.795|37.0|1.0|01-07-2021|Castro|
+Puerto Montt|2|0.5|266.0|1.0|01-10-2021|Castro|
+Punta Arenas|25|0.72|67.0|1.0|01-10-2021|Castro|
+Santiago|148|0.804|36.0|1.0|01-10-2021|Castro|
+Punta Arenas|25|0.56|122.0|1.0|01-01-2022|Castro|
+Santiago|158|0.772|50.0|0.9940000000000001|01-01-2022|Castro|
+Punta Arenas|15|0.867|98.0|1.0|01-04-2022|Castro|
+Santiago|107|0.8320000000000001|56.0|0.973|01-04-2022|Castro|
+Santiago|120|0.7829999999999999|74.0|1.0|01-07-2022|Castro|
+Santiago|118|0.831|49.0|0.992|01-10-2022|Castro|
+Santiago|156|0.84|56.0|0.981|01-01-2023|Castro|
+Concepcion|1|0.0|48.0|1.0|01-01-2023|Castro|
+Rio Gallegos Arg.|2|1.0|0.0|1.0|01-01-2020|PuntaArenas|
+Puerto Montt|273|0.8859999999999999|49.0|1.0|01-01-2020|PuntaArenas|
+Temuco|28|0.857|43.0|1.0|01-01-2020|PuntaArenas|
+Santiago|751|0.818|46.0|0.993|01-01-2020|PuntaArenas|
+Puerto Stanley|8|0.75|46.0|0.889|01-01-2020|PuntaArenas|
+Balmaceda|1|1.0|0.0|1.0|01-04-2020|PuntaArenas|
+Puerto Montt|21|0.524|95.0|1.0|01-04-2020|PuntaArenas|
+Santiago|60|0.6829999999999999|81.0|0.8220000000000001|01-04-2020|PuntaArenas|
+Concepcion|3|1.0|0.0|0.15|01-04-2020|PuntaArenas|
+Puerto Montt|78|0.8079999999999999|60.0|0.987|01-07-2020|PuntaArenas|
+Santiago|60|0.6|67.0|0.968|01-07-2020|PuntaArenas|
+Concepcion|1|1.0|0.0|1.0|01-07-2020|PuntaArenas|
+Puerto Montt|142|0.7390000000000001|44.0|0.9790000000000001|01-10-2020|PuntaArenas|
+Santiago|85|0.8240000000000001|65.0|0.988|01-10-2020|PuntaArenas|
+Valdivia|1|0.0|17.0|1.0|01-10-2020|PuntaArenas|
+Puerto Montt|169|0.888|75.0|1.0|01-01-2021|PuntaArenas|
+Santiago|167|0.9159999999999999|62.0|0.988|01-01-2021|PuntaArenas|
+Temuco|16|0.625|25.0|1.0|01-01-2021|PuntaArenas|
+Puerto Montt|155|0.871|56.0|0.981|01-04-2021|PuntaArenas|
+Santiago|100|0.97|48.0|1.0|01-04-2021|PuntaArenas|
+Concepcion|2|1.0|0.0|1.0|01-04-2021|PuntaArenas|
+Temuco|13|0.615|27.0|1.0|01-04-2021|PuntaArenas|
+Castro (Chiloe)|5|1.0|0.0|1.0|01-04-2021|PuntaArenas|
+Puerto Montt|206|0.845|71.0|1.0|01-07-2021|PuntaArenas|
+Santiago|209|0.847|48.0|0.986|01-07-2021|PuntaArenas|
+Temuco|26|0.654|35.0|1.0|01-07-2021|PuntaArenas|
+Castro (Chiloe)|21|0.762|40.0|1.0|01-07-2021|PuntaArenas|
+Puerto Montt|319|0.812|32.0|0.997|01-10-2021|PuntaArenas|
+Santiago|437|0.764|49.0|0.973|01-10-2021|PuntaArenas|
+Concepcion|15|0.733|30.0|0.938|01-10-2021|PuntaArenas|
+Temuco|23|0.652|65.0|1.0|01-10-2021|PuntaArenas|
+Castro (Chiloe)|26|0.6920000000000001|73.0|1.0|01-10-2021|PuntaArenas|
+Puerto Montt|306|0.7390000000000001|31.0|0.9940000000000001|01-01-2022|PuntaArenas|
+Santiago|575|0.7040000000000001|48.0|0.981|01-01-2022|PuntaArenas|
+Concepcion|26|0.769|61.0|1.0|01-01-2022|PuntaArenas|
+Temuco|35|0.857|37.0|1.0|01-01-2022|PuntaArenas|
+Castro (Chiloe)|25|0.76|104.0|1.0|01-01-2022|PuntaArenas|
+Puerto Montt|171|0.784|65.0|0.988|01-04-2022|PuntaArenas|
+Santiago|319|0.887|89.0|0.991|01-04-2022|PuntaArenas|
+Concepcion|18|0.833|28.0|1.0|01-04-2022|PuntaArenas|
+Temuco|26|0.462|65.0|1.0|01-04-2022|PuntaArenas|
+Castro (Chiloe)|14|0.429|107.0|0.9329999999999999|01-04-2022|PuntaArenas|
+Puerto Montt|187|0.695|62.0|0.9890000000000001|01-07-2022|PuntaArenas|
+Santiago|309|0.78|47.0|0.981|01-07-2022|PuntaArenas|
+Temuco|17|0.0|83.0|1.0|01-07-2022|PuntaArenas|
+Puerto Stanley|10|0.7|62.0|0.909|01-07-2022|PuntaArenas|
+Rio Gallegos Arg.|3|1.0|0.0|1.0|01-07-2022|PuntaArenas|
+Rio Gallegos Arg.|3|1.0|0.0|1.0|01-10-2022|PuntaArenas|
+Puerto Natales|1|1.0|0.0|1.0|01-10-2022|PuntaArenas|
+Santiago|394|0.777|46.0|0.99|01-10-2022|PuntaArenas|
+Puerto Montt|186|0.72|40.0|0.9890000000000001|01-10-2022|PuntaArenas|
+Puerto Stanley|11|0.636|86.0|1.0|01-10-2022|PuntaArenas|
+Concepcion|18|0.278|44.0|1.0|01-10-2022|PuntaArenas|
+Temuco|5|0.2|33.0|0.833|01-10-2022|PuntaArenas|
+Ushuia|1|0.0|19.0|1.0|01-10-2022|PuntaArenas|
+Santiago|510|0.769|52.0|0.996|01-01-2023|PuntaArenas|
+Puerto Montt|252|0.762|60.0|0.992|01-01-2023|PuntaArenas|
+Rio Gallegos Arg.|3|0.667|40.0|1.0|01-01-2023|PuntaArenas|
+Temuco|33|0.636|37.0|1.0|01-01-2023|PuntaArenas|
+Concepcion|34|0.588|61.0|1.0|01-01-2023|PuntaArenas|
+Puerto Stanley|9|0.556|133.0|1.0|01-01-2023|PuntaArenas|
+La Paz|48|0.9790000000000001|17.0|1.0|01-01-2020|Santiago|
+Ciudad de Panama|336|0.976|34.0|1.0|01-01-2020|Santiago|
+Barcelona|38|0.9740000000000001|21.0|1.0|01-01-2020|Santiago|
+Roma|49|0.9590000000000001|21.0|1.0|01-01-2020|Santiago|
+Cordoba|98|0.9490000000000001|26.0|1.0|01-01-2020|Santiago|
+Madrid|166|0.934|40.0|0.9940000000000001|01-01-2020|Santiago|
+El Palomar Arg.|119|0.9329999999999999|26.0|0.975|01-01-2020|Santiago|
+Mendoza|166|0.9279999999999999|43.0|0.9940000000000001|01-01-2020|Santiago|
+Paris|97|0.9279999999999999|28.0|1.0|01-01-2020|Santiago|
+Ciudad de Mexico|136|0.919|57.0|1.0|01-01-2020|Santiago|
+Atlanta|68|0.912|47.0|1.0|01-01-2020|Santiago|
+Dallas|68|0.912|201.0|0.986|01-01-2020|Santiago|
+Houston|68|0.912|34.0|0.971|01-01-2020|Santiago|
+Montevideo|202|0.9109999999999999|42.0|1.0|01-01-2020|Santiago|
+Salvador Bahia|64|0.9059999999999999|124.0|1.0|01-01-2020|Santiago|
+Florianapolis|135|0.904|54.0|1.0|01-01-2020|Santiago|
+Nueva York|68|0.897|42.0|1.0|01-01-2020|Santiago|
+Quito|39|0.897|23.0|1.0|01-01-2020|Santiago|
+Rio de Janeiro|405|0.8909999999999999|61.0|1.0|01-01-2020|Santiago|
+Lima|1141|0.89|55.0|0.992|01-01-2020|Santiago|
+Sao Paulo|664|0.889|45.0|0.996|01-01-2020|Santiago|
+Asuncion|68|0.882|34.0|1.0|01-01-2020|Santiago|
+Londres|48|0.875|118.0|1.0|01-01-2020|Santiago|
+Miami|183|0.8740000000000001|120.0|1.0|01-01-2020|Santiago|
+Buenos Aires|955|0.8690000000000001|51.0|0.987|01-01-2020|Santiago|
+Bogota|365|0.8029999999999999|68.0|0.997|01-01-2020|Santiago|
+Los Angeles|44|0.773|45.0|1.0|01-01-2020|Santiago|
+Guayaquil|68|0.721|33.0|1.0|01-01-2020|Santiago|
+Toronto|59|0.5760000000000001|70.0|1.0|01-01-2020|Santiago|
+Sydney|78|0.526|120.0|0.987|01-01-2020|Santiago|
+Otras Ciudades|376|0.83|64.0|0.997|01-01-2020|Santiago|
+Concepcion|809|0.9329999999999999|48.0|0.998|01-01-2020|Santiago|
+Iquique|1195|0.9329999999999999|54.0|0.9990000000000001|01-01-2020|Santiago|
+Punta Arenas|747|0.9279999999999999|52.0|0.995|01-01-2020|Santiago|
+Valdivia|367|0.924|47.0|1.0|01-01-2020|Santiago|
+Antofagasta|1175|0.9229999999999999|56.0|1.0|01-01-2020|Santiago|
+Balmaceda|392|0.9229999999999999|78.0|1.0|01-01-2020|Santiago|
+Copiapo|430|0.9209999999999999|62.0|1.0|01-01-2020|Santiago|
+Calama|1237|0.9159999999999999|61.0|0.997|01-01-2020|Santiago|
+La Serena|652|0.9129999999999999|68.0|1.0|01-01-2020|Santiago|
+Osorno|173|0.9129999999999999|63.0|1.0|01-01-2020|Santiago|
+Puerto Natales|127|0.9129999999999999|41.0|1.0|01-01-2020|Santiago|
+Arica|690|0.912|50.0|0.997|01-01-2020|Santiago|
+Temuco|832|0.909|44.0|1.0|01-01-2020|Santiago|
+Puerto Montt|1266|0.904|47.0|0.998|01-01-2020|Santiago|
+Castro (Chiloe)|49|0.898|22.0|1.0|01-01-2020|Santiago|
+Isla de Pascua|127|0.8740000000000001|138.0|1.0|01-01-2020|Santiago|
+Latinoamericanas|64|0.531|78.0||01-04-2020|Santiago|91,4
+Norteamericanas|45|0.9329999999999999|29.0||01-04-2020|Santiago|69,2
+Europeas|15|0.6|80.0||01-04-2020|Santiago|100,0
+Pacifico Sur|9|0.556|98.0||01-04-2020|Santiago|75,0
+Antofagasta|319|0.865|57.0||01-04-2020|Santiago|94,1
+Arica|31|0.903|52.0||01-04-2020|Santiago|93,9
+Balmaceda|4|0.75|67.0||01-04-2020|Santiago|100,0
+Calama|360|0.775|66.0||01-04-2020|Santiago|94,5
+Concepcion|117|0.855|63.0||01-04-2020|Santiago|79,6
+Copiapo|8|1.0|0.0||01-04-2020|Santiago|88,9
+Iquique|164|0.7929999999999999|52.0||01-04-2020|Santiago|93,2
+Isla de Pascua|4|0.25|117.0||01-04-2020|Santiago|80,0
+La Serena|158|0.861|45.0||01-04-2020|Santiago|94,0
+Puerto Montt|101|0.792|43.0||01-04-2020|Santiago|97,1
+Punta Arenas|48|0.7290000000000001|59.0||01-04-2020|Santiago|80,0
+Temuco|31|0.968|23.0||01-04-2020|Santiago|75,6
+Valdivia|4|1.0|0.0||01-04-2020|Santiago|100,0
+Latinoamericanos|134|0.858|58.0||01-07-2020|Santiago|99,3
+Norteamericanos|117|0.94|230.0||01-07-2020|Santiago|99,2
+Europeos|86|0.93|24.0||01-07-2020|Santiago|100,0
+Antofagasta|646|0.862|57.0||01-07-2020|Santiago|99,1
+Arica|62|0.9520000000000001|44.0||01-07-2020|Santiago|95,4
+Balmaceda|8|0.75|131.0||01-07-2020|Santiago|88,9
+Calama|373|0.772|108.0||01-07-2020|Santiago|96,1
+Concepcion|177|0.91|43.0||01-07-2020|Santiago|100,0
+Copiapo|37|0.973|40.0||01-07-2020|Santiago|100,0
+Iquique|392|0.872|55.0||01-07-2020|Santiago|95,6
+Isla de Pascua|1|0.0|157.0||01-07-2020|Santiago|100,0
+La Serena|223|0.865|67.0||01-07-2020|Santiago|100,0
+Puerto Montt|215|0.907|53.0||01-07-2020|Santiago|99,5
+Punta Arenas|47|0.5529999999999999|56.0||01-07-2020|Santiago|100,0
+Temuco|103|0.932|43.0||01-07-2020|Santiago|100,0
+Valdivia|12|1.0|0.0||01-07-2020|Santiago|100,0
+Latinoamericanos|1126|0.8140000000000001|40.0||01-10-2020|Santiago|99,6
+Norteamericanos|231|0.909|100.0||01-10-2020|Santiago|99,6
+Europeos|166|0.9279999999999999|69.0||01-10-2020|Santiago|98,8
+Pacifico Sur|3|0.667|34.0||01-10-2020|Santiago|100,0
+Antofagasta|1095|0.925|70.0||01-10-2020|Santiago|98,2
+Arica|227|0.9520000000000001|31.0||01-10-2020|Santiago|99,1
+Balmaceda|57|0.895|65.0||01-10-2020|Santiago|98,3
+Calama|958|0.9079999999999999|86.0||01-10-2020|Santiago|93,8
+Iquique|862|0.929|65.0||01-10-2020|Santiago|94,5
+Isla de Pascua|1|0.0|17.0||01-10-2020|Santiago|100,0
+La Serena|484|0.938|37.0||01-10-2020|Santiago|99,2
+Osorno|67|0.91|59.0||01-10-2020|Santiago|94,4
+Puerto Montt|543|0.945|55.0||01-10-2020|Santiago|99,5
+Puerto Natales|5|1.0|0.0||01-10-2020|Santiago|100,0
+Punta Arenas|94|0.851|53.0||01-10-2020|Santiago|98,9
+Temuco|383|0.948|40.0||01-10-2020|Santiago|97,7
+Valdivia|89|0.9440000000000001|31.0||01-10-2020|Santiago|97,8
+Latinoamericanos|1867|0.945|61.0||01-01-2021|Santiago|98,3
+Norteamericanos|325|0.935|75.0||01-01-2021|Santiago|99,4
+Europeos|185|0.924|46.0||01-01-2021|Santiago|98,9
+Pacifico Sur|2|1.0|0.0||01-01-2021|Santiago|100,0
+Antofagasta|946|0.965|54.0||01-01-2021|Santiago|96,8
+Arica|317|0.95|44.0||01-01-2021|Santiago|99,4
+Balmaceda|97|0.9590000000000001|52.0||01-01-2021|Santiago|99,0
+Calama|876|0.961|59.0||01-01-2021|Santiago|97,2
+Iquique|763|0.972|48.0||01-01-2021|Santiago|97,3
+La Serena|664|0.961|67.0||01-01-2021|Santiago|97,4
+Osorno|111|0.9009999999999999|72.0||01-01-2021|Santiago|99,1
+Puerto Montt|716|0.955|39.0||01-01-2021|Santiago|98,1
+Puerto Natales|37|0.973|48.0||01-01-2021|Santiago|100,0
+Punta Arenas|169|0.87|57.0||01-01-2021|Santiago|100,0
+Temuco|480|0.977|74.0||01-01-2021|Santiago|97,8
+Valdivia|180|0.9390000000000001|56.0||01-01-2021|Santiago|95,7
+Latinoamericanos|359|0.8909999999999999|41.0||01-04-2021|Santiago|97,0
+Norteamericanos|306|0.935|124.0||01-04-2021|Santiago|98,4
+Europeos|128|0.875|91.0||01-04-2021|Santiago|99,2
+Antofagasta|834|0.971|62.0||01-04-2021|Santiago|98,9
+Arica|220|0.9359999999999999|53.0||01-04-2021|Santiago|94,8
+Balmaceda|72|0.972|19.0||01-04-2021|Santiago|100,0
+Calama|838|0.9690000000000001|53.0||01-04-2021|Santiago|97,8
+Castro (Chiloe)|50|0.88|23.0||01-04-2021|Santiago|100,0
+Concepcion|484|0.934|51.0||01-04-2021|Santiago|97,8
+Copiapo|281|0.943|63.0||01-04-2021|Santiago|97,2
+Iquique|639|0.9670000000000001|57.0||01-04-2021|Santiago|98,6
+La Serena|475|0.9329999999999999|44.0||01-04-2021|Santiago|97,5
+Osorno|63|0.9209999999999999|115.0||01-04-2021|Santiago|91,3
+Puerto Montt|508|0.9490000000000001|46.0||01-04-2021|Santiago|97,5
+Punta Arenas|102|0.902|62.0||01-04-2021|Santiago|100,0
+Temuco|295|0.983|24.0||01-04-2021|Santiago|97,7
+Valdivia|95|0.9259999999999999|78.0||01-04-2021|Santiago|94,1
+Latinoamericanos|1007|0.888|42.0||01-07-2021|Santiago|99,6
+Norteamericanos|481|0.9229999999999999|128.0||01-07-2021|Santiago|97,4
+Europeos|216|0.917|53.0||01-07-2021|Santiago|100,0
+Antofagasta|1388|0.9490000000000001|39.0||01-07-2021|Santiago|99,4
+Arica|416|0.899|42.0||01-07-2021|Santiago|99,8
+Balmaceda|121|0.8759999999999999|43.0||01-07-2021|Santiago|100,0
+Calama|1266|0.955|52.0||01-07-2021|Santiago|98,5
+Castro (Chiloe)|88|0.898|54.0||01-07-2021|Santiago|100,0
+Concepcion|829|0.9259999999999999|48.0||01-07-2021|Santiago|98,8
+Copiapo|456|0.9520000000000001|35.0||01-07-2021|Santiago|95,4
+Iquique|1128|0.9359999999999999|45.0||01-07-2021|Santiago|99,2
+Isla de Pascua|7|0.857|40.0||01-07-2021|Santiago|100,0
+La Serena|779|0.935|39.0||01-07-2021|Santiago|98,7
+Osorno|135|0.9329999999999999|80.0||01-07-2021|Santiago|97,8
+Puerto Montt|898|0.935|44.0||01-07-2021|Santiago|99,8
+Puerto Natales|1|1.0|0.0||01-07-2021|Santiago|100,0
+Punta Arenas|210|0.8859999999999999|27.0||01-07-2021|Santiago|98,6
+Temuco|609|0.941|41.0||01-07-2021|Santiago|99,0
+Valdivia|235|0.898|94.0||01-07-2021|Santiago|100,0
+Latinoamericanos|2431|0.737|47.0||01-10-2021|Santiago|99,8
+Norteamericanos|544|0.8240000000000001|70.0||01-10-2021|Santiago|98,7
+Europeos|254|0.8029999999999999|36.0||01-10-2021|Santiago|100,0
+Pacifico Sur|1|1.0|0.0||01-10-2021|Santiago|100,0
+Antofagasta|133|0.8859999999999999|43.0||01-10-2021|Santiago|98,9
+Arica|556|0.879|44.0||01-10-2021|Santiago|97,4
+Balmaceda|292|0.884|32.0||01-10-2021|Santiago|99,7
+Calama|1259|0.9079999999999999|37.0||01-10-2021|Santiago|98,1
+Castro (Chiloe)|148|0.892|43.0||01-10-2021|Santiago|100,0
+Concepcion|919|0.848|42.0||01-10-2021|Santiago|99,4
+Copiapo|533|0.904|35.0||01-10-2021|Santiago|99,1
+Iquique|1251|0.877|46.0||01-10-2021|Santiago|98,7
+Isla de Pascua|7|0.5710000000000001|27.0||01-10-2021|Santiago|100,0
+La Serena|816|0.89|34.0||01-10-2021|Santiago|99,8
+Osorno|233|0.9179999999999999|31.0||01-10-2021|Santiago|99,6
+Puerto Montt|1287|0.877|42.0||01-10-2021|Santiago|99,6
+Puerto Natales|62|0.871|24.0||01-10-2021|Santiago|100,0
+Punta Arenas|439|0.866|49.0||01-10-2021|Santiago|97,1
+Temuco|836|0.856|37.0||01-10-2021|Santiago|98,6
+Valdivia|371|0.857|59.0||01-10-2021|Santiago|99,5
+Latinoamericanos|3648|0.8740000000000001|57.0||01-01-2022|Santiago|99,7
+Norteamericanos|607|0.852|77.0||01-01-2022|Santiago|98,9
+Europeos|307|0.8240000000000001|43.0||01-01-2022|Santiago|99,4
+Pcifico Sur|2|0.5|19.0||01-01-2022|Santiago|100,0
+Antofagasta|1247|0.8859999999999999|49.0||01-01-2022|Santiago|99,0
+Arica|612|0.879|59.0||01-01-2022|Santiago|98,1
+Balmaceda|378|0.95|43.0||01-01-2022|Santiago|100,0
+Calama|1177|0.914|43.0||01-01-2022|Santiago|98,5
+Castro (Chiloe)|158|0.899|33.0||01-01-2022|Santiago|100,0
+Concepcion|943|0.846|53.0||01-01-2022|Santiago|99,1
+Copiapo|518|0.892|55.0||01-01-2022|Santiago|99,4
+Iquique|1123|0.838|47.0||01-01-2022|Santiago|97,5
+Isla de Pascua|6|0.16699999999999998|27.0||01-01-2022|Santiago|100,0
+La Serena|722|0.892|51.0||01-01-2022|Santiago|98,5
+Osorno|250|0.888|53.0||01-01-2022|Santiago|99,6
+Puerto Montt|1293|0.875|48.0||01-01-2022|Santiago|99,5
+Puerto Natales|99|0.909|75.0||01-01-2022|Santiago|100,0
+Punta Arenas|581|0.905|53.0||01-01-2022|Santiago|99,0
+Temuco|832|0.856|45.0||01-01-2022|Santiago|99,5
+Valdivia|397|0.841|52.0||01-01-2022|Santiago|99,5
+Arequipa|26|0.885|18.0|1.0|01-04-2022|Santiago|
+Asuncion|39|0.9490000000000001|25.0|1.0|01-04-2022|Santiago|
+Atlanta|87|0.862|82.0|1.0|01-04-2022|Santiago|
+Auckland N.Z.|39|0.5379999999999999|39.0|1.0|01-04-2022|Santiago|
+Bogota|524|0.8590000000000001|46.0|0.996|01-04-2022|Santiago|
+Buenos Aires|789|0.8490000000000001|48.0|0.996|01-04-2022|Santiago|
+Cali|59|0.831|57.0|1.0|01-04-2022|Santiago|
+Cancun|13|1.0|0.0|1.0|01-04-2022|Santiago|
+Ciudad de Mexico|156|0.917|59.0|1.0|01-04-2022|Santiago|
+Ciudad de Panama|481|0.917|55.0|0.998|01-04-2022|Santiago|
+Cordoba|54|0.889|25.0|1.0|01-04-2022|Santiago|
+Dallas|34|0.794|79.0|1.0|01-04-2022|Santiago|
+Guayaquil|57|0.912|57.0|1.0|01-04-2022|Santiago|
+Houston|91|0.9229999999999999|61.0|1.0|01-04-2022|Santiago|
+La Paz|21|0.905|25.0|1.0|01-04-2022|Santiago|
+Lima|709|0.9009999999999999|54.0|0.9990000000000001|01-04-2022|Santiago|
+Londres|39|0.821|43.0|1.0|01-04-2022|Santiago|
+Los Angeles|39|0.872|30.0|0.975|01-04-2022|Santiago|
+Madrid|182|0.857|35.0|0.995|01-04-2022|Santiago|
+Medellin|26|0.9229999999999999|28.0|1.0|01-04-2022|Santiago|
+Mendoza|111|0.847|41.0|1.0|01-04-2022|Santiago|
+Miami|207|0.889|42.0|0.99|01-04-2022|Santiago|
+Montevideo|102|0.912|57.0|1.0|01-04-2022|Santiago|
+Nueva York|105|0.857|88.0|1.0|01-04-2022|Santiago|
+Paris|65|0.831|23.0|1.0|01-04-2022|Santiago|
+Punta Cana|13|0.9229999999999999|440.0|1.0|01-04-2022|Santiago|
+Rio de Janeiro|186|0.941|36.0|1.0|01-04-2022|Santiago|
+Santa Cruz|26|0.885|39.0|1.0|01-04-2022|Santiago|
+Sao Paulo|275|0.873|31.0|1.0|01-04-2022|Santiago|
+Toronto|39|0.9229999999999999|21.0|1.0|01-04-2022|Santiago|
+Trujillo|43|0.605|60.0|1.0|01-04-2022|Santiago|
+Otras Ciudades|15|0.6|109.0|1.0|01-04-2022|Santiago|
+Antofagasta|1184|0.925|40.0|0.995|01-04-2022|Santiago|
+Arica|382|0.9059999999999999|49.0|0.992|01-04-2022|Santiago|
+Balmaceda|150|0.907|42.0|1.0|01-04-2022|Santiago|
+Calama|1130|0.94|45.0|0.9990000000000001|01-04-2022|Santiago|
+Castro (Chiloe)|108|0.9540000000000001|42.0|1.0|01-04-2022|Santiago|
+Concepcion|879|0.875|58.0|0.977|01-04-2022|Santiago|
+Copiapo|538|0.9159999999999999|63.0|0.9940000000000001|01-04-2022|Santiago|
+Iquique|995|0.9309999999999999|51.0|0.996|01-04-2022|Santiago|
+Isla de Pascua|7|0.5710000000000001|60.0|1.0|01-04-2022|Santiago|
+La Serena|595|0.914|58.0|1.0|01-04-2022|Santiago|
+Osorno|170|0.9|41.0|0.988|01-04-2022|Santiago|
+Puerto Montt|907|0.9209999999999999|45.0|1.0|01-04-2022|Santiago|
+Puerto Natales|18|0.833|35.0|1.0|01-04-2022|Santiago|
+Punta Arenas|318|0.9309999999999999|70.0|0.9940000000000001|01-04-2022|Santiago|
+Temuco|570|0.9420000000000001|46.0|0.998|01-04-2022|Santiago|
+Valdivia|261|0.904|72.0|0.996|01-04-2022|Santiago|
+Arequipa|25|0.88|39.0|1.0|01-07-2022|Santiago|
+Asuncion|65|0.9229999999999999|36.0|1.0|01-07-2022|Santiago|
+Atlanta|39|0.872|89.0|1.0|01-07-2022|Santiago|
+Auckland N.Z.|65|0.6|49.0|1.0|01-07-2022|Santiago|
+Bogota|556|0.8809999999999999|84.0|1.0|01-07-2022|Santiago|
+Buenos Aires|997|0.857|47.0|0.998|01-07-2022|Santiago|
+Cali|53|0.887|67.0|1.0|01-07-2022|Santiago|
+Cancun|22|0.8640000000000001|97.0|1.0|01-07-2022|Santiago|
+Ciudad de Mexico|149|0.953|42.0|0.925|01-07-2022|Santiago|
+Ciudad de Panama|526|0.9259999999999999|39.0|0.996|01-07-2022|Santiago|
+Cordoba|65|0.9540000000000001|43.0|0.985|01-07-2022|Santiago|
+Cusco|40|1.0|0.0|1.0|01-07-2022|Santiago|
+Florianapolis|42|0.9520000000000001|51.0|1.0|01-07-2022|Santiago|
+Guayaquil|88|0.943|43.0|0.978|01-07-2022|Santiago|
+Houston|91|0.9229999999999999|194.0|0.9890000000000001|01-07-2022|Santiago|
+La Paz|27|0.9259999999999999|95.0|1.0|01-07-2022|Santiago|
+Lima|904|0.878|50.0|1.0|01-07-2022|Santiago|
+Londres|40|0.75|71.0|1.0|01-07-2022|Santiago|
+Los Angeles|39|0.795|53.0|1.0|01-07-2022|Santiago|
+Madrid|188|0.888|60.0|0.995|01-07-2022|Santiago|
+Medellin|20|0.85|40.0|1.0|01-07-2022|Santiago|
+Mendoza|174|0.897|41.0|1.0|01-07-2022|Santiago|
+Miami|245|0.878|68.0|0.988|01-07-2022|Santiago|
+Montevideo|149|0.8859999999999999|60.0|1.0|01-07-2022|Santiago|
+Nueva York|128|0.8590000000000001|141.0|1.0|01-07-2022|Santiago|
+Paris|69|0.899|62.0|1.0|01-07-2022|Santiago|
+Porto Alegre|2|0.0|60.0|1.0|01-07-2022|Santiago|
+Punta Cana|21|0.857|52.0|1.0|01-07-2022|Santiago|
+Rio de Janeiro|201|0.945|31.0|1.0|01-07-2022|Santiago|
+Santa Cruz|38|0.9209999999999999|91.0|1.0|01-07-2022|Santiago|
+Sao Paulo|521|0.823|36.0|0.996|01-07-2022|Santiago|
+Toronto|39|0.9490000000000001|145.0|1.0|01-07-2022|Santiago|
+Trujillo|39|0.821|37.0|1.0|01-07-2022|Santiago|
+Antofagasta|1169|0.92|36.0|0.9940000000000001|01-07-2022|Santiago|
+Arica|390|0.897|45.0|0.997|01-07-2022|Santiago|
+Balmaceda|199|0.95|49.0|0.985|01-07-2022|Santiago|
+Calama|1169|0.922|47.0|0.992|01-07-2022|Santiago|
+Castro (Chiloe)|118|0.8809999999999999|65.0|1.0|01-07-2022|Santiago|
+Concepcion|979|0.9079999999999999|48.0|0.992|01-07-2022|Santiago|
+Copiapo|507|0.899|55.0|0.9940000000000001|01-07-2022|Santiago|
+Iquique|1040|0.897|42.0|0.996|01-07-2022|Santiago|
+Isla de Pascua|22|0.682|28.0|1.0|01-07-2022|Santiago|
+La Serena|590|0.895|47.0|0.993|01-07-2022|Santiago|
+Osorno|178|0.8540000000000001|56.0|0.9890000000000001|01-07-2022|Santiago|
+Puerto Montt|990|0.899|52.0|0.997|01-07-2022|Santiago|
+Punta Arenas|312|0.907|36.0|0.997|01-07-2022|Santiago|
+Temuco|664|0.895|47.0|0.996|01-07-2022|Santiago|
+Valdivia|300|0.897|51.0|0.997|01-07-2022|Santiago|
+Santa Cruz|39|1.0|0.0|1.0|01-10-2022|Santiago|
+Cusco|37|0.973|17.0|0.9490000000000001|01-10-2022|Santiago|
+La Paz|26|0.9620000000000001|17.0|1.0|01-10-2022|Santiago|
+Dallas|63|0.9520000000000001|103.0|1.0|01-10-2022|Santiago|
+Houston|92|0.946|206.0|0.9790000000000001|01-10-2022|Santiago|
+Los Angeles|41|0.927|35.0|1.0|01-10-2022|Santiago|
+Asuncion|93|0.925|45.0|0.9890000000000001|01-10-2022|Santiago|
+Paris|89|0.9209999999999999|396.0|1.0|01-10-2022|Santiago|
+Rio de Janeiro|260|0.915|28.0|1.0|01-10-2022|Santiago|
+Ciudad de Mexico|149|0.9129999999999999|93.0|0.993|01-10-2022|Santiago|
+Mendoza|195|0.903|46.0|0.985|01-10-2022|Santiago|
+Florianapolis|91|0.9009999999999999|22.0|1.0|01-10-2022|Santiago|
+Cordoba|88|0.8859999999999999|29.0|1.0|01-10-2022|Santiago|
+Ciudad de Panama|504|0.8809999999999999|31.0|1.0|01-10-2022|Santiago|
+Buenos Aires|1092|0.856|64.0|0.995|01-10-2022|Santiago|
+Curitiba, Bra.|27|0.852|47.0|1.0|01-10-2022|Santiago|
+Guayaquil|92|0.848|39.0|0.9890000000000001|01-10-2022|Santiago|
+Bogota|552|0.846|64.0|0.998|01-10-2022|Santiago|
+Lima|1003|0.8440000000000001|48.0|0.987|01-10-2022|Santiago|
+Sao Paulo|595|0.8420000000000001|45.0|0.992|01-10-2022|Santiago|
+Toronto|49|0.8370000000000001|53.0|1.0|01-10-2022|Santiago|
+Nueva York|130|0.831|66.0|0.992|01-10-2022|Santiago|
+Miami|246|0.8170000000000001|57.0|0.988|01-10-2022|Santiago|
+Otras Ciudades|90|0.8109999999999999|40.0|0.9470000000000001|01-10-2022|Santiago|
+Madrid|185|0.8109999999999999|37.0|0.995|01-10-2022|Santiago|
+Montevideo|171|0.8009999999999999|88.0|0.9940000000000001|01-10-2022|Santiago|
+Atlanta|75|0.8|42.0|0.987|01-10-2022|Santiago|
+Auckland N.Z.|83|0.759|53.0|0.988|01-10-2022|Santiago|
+Trujillo|45|0.711|42.0|0.9570000000000001|01-10-2022|Santiago|
+Londres|39|0.667|24.0|1.0|01-10-2022|Santiago|
+Barcelona|31|0.484|93.0|0.9690000000000001|01-10-2022|Santiago|
+Cali|64|0.391|68.0|1.0|01-10-2022|Santiago|
+Sydney|36|0.389|67.0|0.973|01-10-2022|Santiago|
+Copiapo|502|0.9279999999999999|42.0|0.996|01-10-2022|Santiago|
+Valdivia|307|0.925|65.0|1.0|01-10-2022|Santiago|
+Balmaceda|228|0.9209999999999999|39.0|1.0|01-10-2022|Santiago|
+Castro (Chiloe)|119|0.9159999999999999|71.0|1.0|01-10-2022|Santiago|
+Calama|1284|0.907|43.0|0.991|01-10-2022|Santiago|
+Osorno|208|0.904|45.0|1.0|01-10-2022|Santiago|
+Puerto Natales|61|0.902|22.0|1.0|01-10-2022|Santiago|
+Punta Arenas|396|0.8909999999999999|36.0|0.997|01-10-2022|Santiago|
+Puerto Montt|1037|0.885|41.0|0.998|01-10-2022|Santiago|
+Antofagasta|1237|0.88|40.0|0.995|01-10-2022|Santiago|
+Arica|418|0.88|48.0|0.993|01-10-2022|Santiago|
+Concepcion|1052|0.875|45.0|0.9940000000000001|01-10-2022|Santiago|
+Temuco|736|0.863|43.0|0.992|01-10-2022|Santiago|
+La Serena|611|0.8590000000000001|44.0|0.997|01-10-2022|Santiago|
+Iquique|1011|0.8540000000000001|44.0|0.995|01-10-2022|Santiago|
+Isla de Pascua|39|0.6409999999999999|29.0|1.0|01-10-2022|Santiago|
+Florianapolis|150|0.9670000000000001|21.0|1.0|01-01-2023|Santiago|
+Ciudad de Panama|486|0.965|35.0|1.0|01-01-2023|Santiago|
+Asuncion|91|0.956|71.0|0.9890000000000001|01-01-2023|Santiago|
+Houston|90|0.956|47.0|0.9890000000000001|01-01-2023|Santiago|
+Cartagena, Colombia|42|0.9520000000000001|22.0|1.0|01-01-2023|Santiago|
+Dallas|86|0.9420000000000001|58.0|1.0|01-01-2023|Santiago|
+Bariloche|34|0.941|70.0|1.0|01-01-2023|Santiago|
+Guayaquil|90|0.9329999999999999|51.0|0.978|01-01-2023|Santiago|
+Atlanta|90|0.922|75.0|0.978|01-01-2023|Santiago|
+Bogota|574|0.922|80.0|0.998|01-01-2023|Santiago|
+Montevideo|163|0.92|85.0|0.9940000000000001|01-01-2023|Santiago|
+Cordoba|99|0.919|30.0|1.0|01-01-2023|Santiago|
+Miami|243|0.9179999999999999|230.0|0.992|01-01-2023|Santiago|
+Mendoza|230|0.917|60.0|1.0|01-01-2023|Santiago|
+Ciudad de Mexico|166|0.9159999999999999|172.0|1.0|01-01-2023|Santiago|
+Rio de Janeiro|394|0.9059999999999999|79.0|0.997|01-01-2023|Santiago|
+Nueva York|90|0.9|126.0|0.978|01-01-2023|Santiago|
+Sao Paulo|737|0.8909999999999999|44.0|1.0|01-01-2023|Santiago|
+Lima|1075|0.885|72.0|0.988|01-01-2023|Santiago|
+Buenos Aires|1243|0.884|62.0|0.996|01-01-2023|Santiago|
+Paris|90|0.878|31.0|1.0|01-01-2023|Santiago|
+Curitiba, Bra.|38|0.868|82.0|1.0|01-01-2023|Santiago|
+Toronto|51|0.863|85.0|1.0|01-01-2023|Santiago|
+Otras Ciudades|155|0.845|76.0|0.9570000000000001|01-01-2023|Santiago|
+Madrid|180|0.8440000000000001|27.0|1.0|01-01-2023|Santiago|
+Los Angeles|38|0.8420000000000001|41.0|1.0|01-01-2023|Santiago|
+Barcelona|41|0.8290000000000001|97.0|1.0|01-01-2023|Santiago|
+Trujillo|46|0.826|26.0|1.0|01-01-2023|Santiago|
+Auckland N.Z.|89|0.742|37.0|0.9890000000000001|01-01-2023|Santiago|
+Medellin|31|0.71|187.0|1.0|01-01-2023|Santiago|
+Cali|76|0.6579999999999999|67.0|1.0|01-01-2023|Santiago|
+Londres|40|0.65|33.0|1.0|01-01-2023|Santiago|
+Sydney|46|0.63|67.0|1.0|01-01-2023|Santiago|
+Copiapo|511|0.951|45.0|0.992|01-01-2023|Santiago|
+Balmaceda|227|0.943|35.0|1.0|01-01-2023|Santiago|
+Osorno|256|0.93|46.0|0.996|01-01-2023|Santiago|
+Calama|1321|0.924|49.0|0.996|01-01-2023|Santiago|
+Arica|487|0.914|48.0|0.998|01-01-2023|Santiago|
+Puerto Natales|113|0.912|50.0|1.0|01-01-2023|Santiago|
+Antofagasta|1277|0.9059999999999999|62.0|0.995|01-01-2023|Santiago|
+Concepcion|994|0.899|54.0|0.995|01-01-2023|Santiago|
+Iquique|1193|0.895|57.0|0.997|01-01-2023|Santiago|
+Punta Arenas|510|0.894|55.0|0.998|01-01-2023|Santiago|
+Temuco|820|0.894|65.0|0.993|01-01-2023|Santiago|
+Puerto Montt|1238|0.8909999999999999|59.0|0.9940000000000001|01-01-2023|Santiago|
+La Serena|663|0.89|60.0|0.997|01-01-2023|Santiago|
+Valdivia|429|0.883|48.0|0.988|01-01-2023|Santiago|
+Castro (Chiloe)|157|0.873|63.0|0.9940000000000001|01-01-2023|Santiago|
+Isla de Pascua|59|0.8140000000000001|41.0|1.0|01-01-2023|Santiago|
