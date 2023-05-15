@@ -1,0 +1,12 @@
+# Required packages to run this code:
+python 3.9
+
+# Required libraries:
+pandas
+requests
+PyPDF2
+os
+tabula
+shutil
+time
+webbrowser
